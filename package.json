@@ -2,6 +2,7 @@
 	"name": "innovation-dental",
 	"version": "0.1.0",
 	"private": true,
+	"homepage": "https://github.com/Myrhoiazov/dental",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/Myrhoiazov/dental"

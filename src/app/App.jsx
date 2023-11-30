@@ -19,7 +19,7 @@ const Rules = lazy(() => import('../pages/Rules'));
 
 export const App = () => {
 	return (
-		<BrowserRouter basename="/dental">
+		<BrowserRouter basename="/">
 			<Suspense fallback={<Loader />}>
 				<Routes history={createBrowserHistory()} onUpdate={logPageView}>
 					<Route element={<Layout />}>
