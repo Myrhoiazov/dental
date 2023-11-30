@@ -1,0 +1,617 @@
+{
+	"Home": "Home",
+	"About me": "About us",
+	"Courses": "Services",
+	"Prices": "Prices",
+	"Contact": "Contact",
+	"policy": {
+		"policy": "Rules",
+		"confi": "Confidentiality"
+	},
+	"hero": {
+		"hello": "We kindly ask you to the dental clinics. Our goal is to keep your teeth healthy. We have given a lot of respect to him to create",
+		"hello-accent": "a more stylish, high-tech, yet more comfortable solution for all our patients.",
+		"name": "Kindly welcome to Innovation Dental Clinic",
+		"text": "Antonia Viter"
+	},
+	"button": {
+		"buy": "Read more..."
+	},
+	"action": {
+		"splide": "Buy 2 items and get 10% discount"
+	},
+	"about": {
+		"title": "About our company",
+		"subtitle": "Innovation Dental Clinic",
+		"text1": "Master in hair extension and reconstruction, founder of the studio 'VITER HAIR'. The studio received the 'QUALITY SIGN OF UKRAINE' award and entered the top 100 best studios in Ukraine. Experience 15 years.",
+		"text2": "Through trial and error and my own experience, I have created perfect and discreet capsules that are appreciated in all corners of the world!",
+		"text3": "I present to you my unique author's online hair extension course, where together we will go from a beginner to a top hair extension master and reach an income of $ 2,000 per month. The scope of building is very in demand and highly paid in any country in the world!"
+	},
+	"section": {
+		"products": "Products",
+		"subtext": "A sought-after beautician is good training and practice. Our video tutorials will help you become successful in cosmetology."
+	},
+	"politics": {
+		"text_1": "The course was created for cosmetologists to share information and experience for specialists who cannot attend training in person.",
+		"text_2": "The courses are introductory in nature with the technique of a cosmetologist.",
+		"text_3": "Distribution and sale of courses purchased on this site is prohibited."
+	},
+	"contacts": {
+		"title": "Contacts",
+		"block_1": "Need Help?",
+		"block_2": "Social links",
+		"block_3": "User agreement:",
+		"payment": "Payment method:"
+	},
+	"shedule": {
+		"text": "Mo-Sa 9:00am - 20:00pm"
+	},
+	"courses": [
+		{
+			"title": "Dr. Denys",
+			"text": "Example text about doctor",
+			"date_start": "Дата навчання:",
+			"link": "Зв'язатися з нами",
+			"link_2": "Детальніше",
+			"buy": "Придбати",
+			"buy_link": "/",
+			"img": "test-1.jpg",
+			"id": "hair_course",
+			"format": "offline",
+			"study": "Group study",
+			"count_time": {
+				"text": "Hours:",
+				"time": "24"
+			},
+			"count_lessons": {
+				"text": "Lessons:",
+				"time": "3"
+			},
+			"price": {
+				"text": "Price:",
+				"count": "15000",
+				"currency": "uah"
+			},
+			"dates": [
+				"29.08.2023",
+				"07.09.2023"
+			],
+			"lessons": {
+				"title": "How is the training going?",
+				"subtitle": "Training takes place in a group of 2 to 4 people, which makes it possible to pay attention to each of the students",
+				"list": [
+					{
+						"day": "day",
+						"lesson": "On the first day, we will begin a theoretical acquaintance with the hair extension procedure - this is a very important stage in training, since it is impossible to start practicing without theory."
+					},
+					{
+						"day": "day",
+						"lesson": "You will alternate practice on a mannequin with theory and work according to clearly defined instructions under the guidance of top + trainer Antonina Viter."
+					},
+					{
+						"day": "day",
+						"lesson": "All received theoretical and practical skills, you will work out on the model, under the guidance of a top trainer."
+					}
+				]
+			},
+			"info": [
+				{
+					"title": "Who is the online hair extension course for?",
+					"text": "Girls at all times monitored their appearance and sought to improve it. A lush mane of thick and shiny hair is a key indicator of attractiveness. In Ukraine, the most beautiful girls and the beauty industry are even better developed than in Europe. Masters of manicure, make-up and hair extensions will always be in demand and will not be left without work."
+				},
+				{
+					"title": "Get a promising profession remotely",
+					"text": "After completing the training, you will become a specialist and realize yourself in creativity, you will communicate a lot with people, make them beautiful and happy. You can work in a beauty salon or open your own studio. What will we teach you? For example, in the online course of hair extension masters, you will learn how to work with microcapsule technique that allows you to achieve the most natural result, without visible differences between your hair and extensions. In our academy, you will undergo distance learning, which will allow you to study from home. You will save money and time because you do not need to travel somewhere many times. You will acquire all the necessary knowledge and it will be much more profitable than attending face-to-face classes. The course is logically structured and you will learn the most effective extension technique, you will be able to choose good quality natural hair, find out what tools to use in the work and what tools to use."
+				}
+			],
+			"for_who": {
+				"title": "For whom will it be useful?",
+				"list": [
+					{
+						"subtitle": "Students",
+						"text": "Many do not have enough money during their studies, but it is difficult to find a place for a part-time job, but you want to earn money. After completing the training in hair extensions, you will be able to combine work with study, earning money in your free time."
+					},
+					{
+						"subtitle": "Girls who use services",
+						"text": "Are you tired of constant corrections, expensive masters, overpayments for care products? In the courses you will learn how to work independently, make corrections, find out where to order care products and save on expensive trips to the salon."
+					},
+					{
+						"subtitle": "Current masters",
+						"text": "For practicing masters who want to learn more techniques and tricks for working in hair extensions."
+					},
+					{
+						"subtitle": "For mothers on maternity leave",
+						"text": "Those who want to develop in the beauty field. As an additional income with the possibility of transferring to the main activity."
+					}
+				]
+			},
+			"programm": {
+				"title": "Hair extension course program",
+				"lesson": "Lesson №",
+				"list": [
+					{
+						"title": " - Hair structure",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Peeling for the scalp",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - All about hair loss",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Hair extension. Brief description of the procedure",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Instrument disinfection ",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Keratin, types of keratin, powder",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Working with different hair structures",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Encapsulation",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Why capsules slip. Hair comes out of the capsule",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Nuances in working with blond, dense caret, children's hair",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Removal / complex / tangles",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Hair Extensions",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Hair correction",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Stages of work",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Client consultation",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Hair care",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Base of suppliers of donor hair, tools and materials for building. Practical guide with information about the course",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Practice",
+						"text": "Practicing on a manikin. Removal / Capsulation / Extension"
+					},
+					{
+						"title": " - Practice",
+						"text": "Practicing on the model. Removal / Encapsulation / Build-up - Issuance of a diploma"
+					}
+				]
+			}
+		},
+		{
+			"title": "Dr. Marina",
+			"text": "Description about doctor 2",
+			"date_start": "Дата навчання:",
+			"link": "Зв'язатися з нами",
+			"link_2": "Детальніше",
+			"buy": "Придбати",
+			"buy_link": "/",
+			"img": "test-2.jpg",
+			"id": "privat_hair_course",
+			"format": "offline",
+			"study": "Індівідуальне навчання",
+			"count_time": {
+				"text": "Hours:",
+				"time": "24"
+			},
+			"count_lessons": {
+				"text": "Lessons:",
+				"time": "3"
+			},
+			"price": {
+				"text": "Price:",
+				"count": "40000",
+				"currency": "uah"
+			},
+			"dates": [
+				"0"
+			],
+			"lessons": {
+				"title": "How is the training going?",
+				"subtitle": "Training takes place in a group of 2 to 4 people, which makes it possible to pay attention to each of the students",
+				"list": [
+					{
+						"day": "day",
+						"lesson": "On the first day, we will begin a theoretical acquaintance with the hair extension procedure - this is a very important stage in training, since it is impossible to start practicing without theory."
+					},
+					{
+						"day": "day",
+						"lesson": "You will alternate practice on a mannequin with theory and work according to clearly defined instructions under the guidance of top + trainer Antonina Viter."
+					},
+					{
+						"day": "day",
+						"lesson": "All received theoretical and practical skills, you will work out on the model, under the guidance of a top trainer."
+					}
+				]
+			},
+			"info": [
+				{
+					"title": "Who is the online hair extension course for?",
+					"text": "Girls at all times monitored their appearance and sought to improve it. A lush mane of thick and shiny hair is a key indicator of attractiveness. In Ukraine, the most beautiful girls and the beauty industry are even better developed than in Europe. Masters of manicure, make-up and hair extensions will always be in demand and will not be left without work."
+				},
+				{
+					"title": "Get a promising profession remotely",
+					"text": "After completing the training, you will become a specialist and realize yourself in creativity, you will communicate a lot with people, make them beautiful and happy. You can work in a beauty salon or open your own studio. What will we teach you? For example, in the online course of hair extension masters, you will learn how to work with microcapsule technique that allows you to achieve the most natural result, without visible differences between your hair and extensions. In our academy, you will undergo distance learning, which will allow you to study from home. You will save money and time because you do not need to travel somewhere many times. You will acquire all the necessary knowledge and it will be much more profitable than attending face-to-face classes. The course is logically structured and you will learn the most effective extension technique, you will be able to choose good quality natural hair, find out what tools to use in the work and what tools to use."
+				}
+			],
+			"for_who": {
+				"title": "For whom will it be useful?",
+				"list": [
+					{
+						"subtitle": "Students",
+						"text": "Many do not have enough money during their studies, but it is difficult to find a place for a part-time job, but you want to earn money. After completing the training in hair extensions, you will be able to combine work with study, earning money in your free time."
+					},
+					{
+						"subtitle": "Girls who use services",
+						"text": "Are you tired of constant corrections, expensive masters, overpayments for care products? In the courses you will learn how to work independently, make corrections, find out where to order care products and save on expensive trips to the salon."
+					},
+					{
+						"subtitle": "Current masters",
+						"text": "For practicing masters who want to learn more techniques and tricks for working in hair extensions."
+					},
+					{
+						"subtitle": "For mothers on maternity leave",
+						"text": "Those who want to develop in the beauty field. As an additional income with the possibility of transferring to the main activity."
+					}
+				]
+			},
+			"programm": {
+				"title": "Hair extension course program",
+				"lesson": "Lesson №",
+				"list": [
+					{
+						"title": " - Hair structure",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Peeling for the scalp",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - All about hair loss",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Hair extension. Brief description of the procedure",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Instrument disinfection ",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Keratin, types of keratin, powder",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Working with different hair structures",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Encapsulation",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Why capsules slip. Hair comes out of the capsule",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Nuances in working with blond, dense caret, children's hair",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Removal / complex / tangles",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Hair Extensions",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Hair correction",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Stages of work",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Client consultation",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Hair care",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Base of suppliers of donor hair, tools and materials for building. Practical guide with information about the course",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Practice",
+						"text": "Practicing on a manikin. Removal / Capsulation / Extension"
+					},
+					{
+						"title": " - Practice",
+						"text": "Practicing on the model. Removal / Encapsulation / Build-up - Issuance of a diploma"
+					}
+				]
+			}
+		},
+		{
+			"title": "Dr. Inna",
+			"text": "Description about doctor Inna",
+			"date_start": "Дата навчання:",
+			"link": "Зв'язатися з нами",
+			"link_2": "Детальніше",
+			"buy": "Придбати",
+			"buy_link": "/",
+			"img": "test-1.jpg",
+			"id": "hair_course_online",
+			"format": "online",
+			"study": "Группове навчання",
+			"count_time": {
+				"text": "Hours:",
+				"time": "24"
+			},
+			"count_lessons": {
+				"text": "Lessons:",
+				"time": "16"
+			},
+			"price": {
+				"text": "Price:",
+				"count": "from 6000",
+				"currency": "uah"
+			},
+			"dates": [
+				"0"
+			],
+			"lessons": {
+				"title": "How is the training going?",
+				"subtitle": "Training takes place in a group of up to 15 people package basic. Up to 10 people standart package. Up to 5 people premium package",
+				"list": [
+					{
+						"day": "",
+						"lesson": "After completing each module, you will have homework in the form of a test and practical assignments."
+					},
+					{
+						"day": "",
+						"lesson": "After completing the task, you move on to the next module."
+					},
+					{
+						"day": "",
+						"lesson": "After completing all homework assignments, you will receive a certificate."
+					}
+				]
+			},
+			"info": [
+				{
+					"title": "Who is the online hair extension course for?",
+					"text": "Girls at all times monitored their appearance and sought to improve it. A lush mane of thick and shiny hair is a key indicator of attractiveness. In Ukraine, the most beautiful girls and the beauty industry are even better developed than in Europe. Masters of manicure, make-up and hair extensions will always be in demand and will not be left without work."
+				},
+				{
+					"title": "Get a promising profession remotely",
+					"text": "After completing the training, you will become a specialist and realize yourself in creativity, you will communicate a lot with people, make them beautiful and happy. You can work in a beauty salon or open your own studio. What will we teach you? For example, in the online course of hair extension masters, you will learn how to work with microcapsule technique that allows you to achieve the most natural result, without visible differences between your hair and extensions. In our academy, you will undergo distance learning, which will allow you to study from home. You will save money and time because you do not need to travel somewhere many times. You will acquire all the necessary knowledge and it will be much more profitable than attending face-to-face classes. The course is logically structured and you will learn the most effective extension technique, you will be able to choose good quality natural hair, find out what tools to use in the work and what tools to use."
+				}
+			],
+			"for_who": {
+				"title": "For whom will it be useful?",
+				"list": [
+					{
+						"subtitle": "Students",
+						"text": "Many do not have enough money during their studies, but it is difficult to find a place for a part-time job, but you want to earn money. After completing the training in hair extensions, you will be able to combine work with study, earning money in your free time."
+					},
+					{
+						"subtitle": "Girls who use services",
+						"text": "Are you tired of constant corrections, expensive masters, overpayments for care products? In the courses you will learn how to work independently, make corrections, find out where to order care products and save on expensive trips to the salon."
+					},
+					{
+						"subtitle": "Current masters",
+						"text": "For practicing masters who want to learn more techniques and tricks for working in hair extensions."
+					},
+					{
+						"subtitle": "For mothers on maternity leave",
+						"text": "Those who want to develop in the beauty field. As an additional income with the possibility of transferring to the main activity."
+					}
+				]
+			},
+			"programm": {
+				"title": "Hair extension course program",
+				"lesson": "Lesson №",
+				"list": [
+					{
+						"title": " - Hair structure",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Peeling for the scalp",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - All about hair loss",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Hair extension. Brief description of the procedure",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Instrument disinfection ",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Keratin, types of keratin, powder",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Working with different hair structures",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Encapsulation",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Why capsules slip. Hair comes out of the capsule",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Nuances in working with blond, dense caret, children's hair",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Removal / complex / tangles",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Hair Extensions",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Hair correction",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Stages of work",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Client consultation",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Hair care",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Base of suppliers of donor hair, tools and materials for building. Practical guide with information about the course",
+						"text": "нужен текст"
+					},
+					{
+						"title": " - Practice",
+						"text": "Practicing on a manikin. Removal / Capsulation / Extension"
+					},
+					{
+						"title": " - Practice",
+						"text": "Practicing on the model. Removal / Encapsulation / Build-up - Issuance of a diploma"
+					}
+				]
+			},
+			"packets": {
+				"title": "Tariffs for online education",
+				"text": "",
+				"list": [
+					{
+						"packet": "Base",
+						"count_people": "In a group up to 15 people",
+						"price": {
+							"name": "Price:",
+							"count": "6000 uah"
+						},
+						"buy": "Buy",
+						"list": [
+							"Video lessons in professional shooting",
+							"Theoretical and practical modules",
+							"Chat support for 1 month",
+							"Base of suppliers with proven materials and tools",
+							"Certificate after completing homework",
+							"The main advantage is that you study at a convenient time for you and in any corner of the world"
+						]
+					},
+					{
+						"packet": "Standard",
+						"count_people": "In a group up to 10 people",
+						"price": {
+							"name": "Price:",
+							"count": "8000 uah"
+						},
+						"buy": "Buy",
+						"list": [
+							"Manual with all the detailed information in electronic form",
+							"Video lessons in professional shooting",
+							"Theoretical and practical modules",
+							"Chat support for 2 months",
+							"Base of suppliers with proven materials and tools",
+							"Certificate after completing homework",
+							"2 modules of training theory and practice",
+							"The main advantage is that you study at a convenient time for you and in any corner of the world"
+						]
+					},
+					{
+						"packet": "Premium",
+						"count_people": "In a group up to 5 people",
+						"price": {
+							"name": "Price:",
+							"count": "10000 uah"
+						},
+						"buy": "Buy",
+						"list": [
+							"Manual with all the detailed information in electronic form",
+							"Video lessons in professional shooting",
+							"Theoretical and practical modules",
+							"Chat support for 2 months",
+							"Base of suppliers with proven materials and tools",
+							"Certificate after completing homework",
+							"2 modules of training theory and practice",
+							"The main advantage is that you study at a convenient time for you and in any corner of the world"
+						]
+					}
+				]
+			}
+		}
+	],
+	"get": [
+		{
+			"proposition": "Stomatologia zachowawcza"
+		},
+		{
+			"proposition": "Protetyka"
+		},
+		{
+			"proposition": "Chirurgia"
+		},
+		{
+			"proposition": "Implanty"
+		},
+		{
+			"proposition": "Ortodoncja"
+		},
+		{
+			"proposition": "Endodoncja"
+		},
+		{
+			"proposition": "RTG"
+		}
+	],
+	"get_title": "At the end of the course you..."
+}

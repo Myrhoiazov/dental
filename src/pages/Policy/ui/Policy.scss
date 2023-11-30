@@ -1,0 +1,71 @@
+@import '../../../shared/styles/variables';
+
+.policy {
+
+	.inner-wrapper {
+		padding: 50px 0;
+
+		.title {
+			text-align: center;
+			margin-bottom: 20px;
+		}
+
+		.list {
+			padding: 10px 30px;
+
+			.item {
+				margin-bottom: 20px;
+
+				p {
+					padding-left: 15px;
+				}
+
+				ul {
+					li {
+						position: relative;
+
+						&::after {
+							content: '';
+							position: absolute;
+							top: 10px;
+							left: 5px;
+							width: 20px;
+							height: 20px;
+							background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" height="48" fill="rgb(212, 19, 66)" viewBox="0 -960 960 960" width="48"><path d="M378-246 154-470l43-43 181 181 384-384 43 43-427 427Z"/></svg>');
+							background-position: center;
+							background-repeat: no-repeat;
+							background-size: 100%;
+						}
+					}
+				}
+
+				.subtitle {
+					margin-bottom: 10px;
+					text-transform: uppercase;
+				}
+
+				.subtext {
+					margin: 10px 0;
+					font-size: 16px;
+					color: $black;
+					font-style: italic;
+				}
+
+				.text {
+					display: block;
+					font-family: $main-font;
+					font-size: 14px;
+					line-height: 1.5;
+					text-align: left;
+					margin-bottom: 10px;
+				}
+			}
+		}
+	}
+
+	@media screen and (max-width: 776px) {
+		.title {
+			font-size: 24px;
+		}
+	}
+}

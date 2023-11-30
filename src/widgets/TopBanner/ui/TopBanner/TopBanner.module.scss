@@ -1,0 +1,14 @@
+@import 'shared/styles/variables';
+
+
+.wrapper {
+	color: $white;
+	background-color: $secondary-color;
+	padding: 8px 20px;
+
+	.inner {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+}

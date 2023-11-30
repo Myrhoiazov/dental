@@ -1,0 +1,102 @@
+@import 'shared/styles/variables';
+
+
+.item {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	padding: 20px;
+	margin-bottom: 20px;
+
+
+	border: 1px solid rgba($primary-text-color, 0.5);
+	border-radius: 10px;
+
+	@media screen and (min-width: 776px) {
+		width: calc((100% - 20px) / 3);
+		margin-bottom: 0;
+
+	}
+
+	.title {
+		color: $black-light;
+		font-size: 24px;
+		margin-bottom: 5px;
+		text-transform: uppercase;
+	}
+
+	.subtitle {
+		color: $black-light;
+		margin-bottom: 20px;
+		font-size: 14px;
+	}
+
+	ul {
+		flex: 1;
+
+		li {
+			position: relative;
+			display: flex;
+			text-align: left;
+			margin-bottom: 20px;
+			padding-left: 30px;
+			line-height: 1.3;
+
+
+
+			&::before {
+				content: '';
+				width: 15px;
+				height: 15px;
+				position: absolute;
+				top: 2px;
+				left: 0;
+				background-image: url('data:image/svg+xml,<svg width="17" height="12" viewBox="0 0 22 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.95851 15.2703C8.96107 16.2432 7.34264 16.2432 6.34568 15.2703L0.74808 9.80981C-0.24936 8.83729 -0.24936 7.25851 0.74808 6.28598C1.74504 5.31298 3.36347 5.31298 4.36091 6.28598L7.69598 9.53886C7.94775 9.78399 8.35645 9.78399 8.6087 9.53886L17.6391 0.729749C18.636 -0.24325 20.2545 -0.24325 21.2519 0.729749C21.7309 1.19699 22 1.83095 22 2.49166C22 3.15238 21.7309 3.78633 21.2519 4.25358L9.95851 15.2703Z" fill="%2310BE67"/></svg>');
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: 100%;
+
+			}
+
+		}
+	}
+
+	.price {
+		margin-top: 20px;
+		font-size: 22px;
+		text-align: left;
+		padding-left: 30px;
+
+		span {
+			display: inline-block;
+			margin-left: 10px;
+			font-weight: 600;
+		}
+	}
+
+	.btn {
+		font-size: 14px;
+		text-align: center;
+		display: inline-block;
+		text-decoration: none;
+		padding: 13px 18px;
+		border: none;
+		border-radius: 60px;
+		display: block;
+
+		color: black;
+		border: 1px solid $primary-text-color;
+		background-color: transparent;
+		margin: 20px 0;
+		min-width: 200px;
+
+		transition: all $transition;
+
+		&:hover {
+			color: $white;
+			background-color: $primary-text-color;
+		}
+
+	}
+
+}
