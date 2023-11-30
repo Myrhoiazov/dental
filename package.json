@@ -2,6 +2,10 @@
 	"name": "innovation-dental",
 	"version": "0.1.0",
 	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Myrhoiazov/dental"
+	},
 	"dependencies": {
 		"@mui/icons-material": "^5.10.9",
 		"@mui/material": "^5.10.11",
