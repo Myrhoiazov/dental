@@ -80,7 +80,7 @@ const Contact = () => {
 							<ul className={s.contactList}>
 								<li className={s.contactItem}>
 									<a
-										href="https://www.instagram.com/viter_hair/"
+										href="https://instagram.com/idc_innovationdentalclinik"
 										rel="noreferrer"
 										target="_blank">
 										<InstagramIcon className={s.icon} />
@@ -88,13 +88,13 @@ const Contact = () => {
 									</a>
 								</li>
 								<li className={s.contactItem}>
-									<a href="tel:+380997438404">
+									<a href="/">
 										<TelegramIcon className={s.icon} />
 										Telegram
 									</a>
 								</li>
 								<li className={s.contactItem}>
-									<a href="tel:+380997438404">
+									<a href="/">
 										<WhatsAppIcon className={s.icon} />
 										WhatsApp
 									</a>
@@ -107,12 +107,10 @@ const Contact = () => {
 							</h3>
 							<ul className={s.contactList}>
 								<li className={s.contactItem}>
-									<Link to="/policy">
-										{t('policy.policy')}
-									</Link>
+									<Link to="/">{t('policy.policy')}</Link>
 								</li>
 								<li className={s.contactItem}>
-									<Link to="/rules">{t('policy.confi')}</Link>
+									<Link to="/">{t('policy.confi')}</Link>
 								</li>
 							</ul>
 						</li>
