@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Myrhoiazov/dental/static/css/main.d07d1442.css",
-    "main.js": "/Myrhoiazov/dental/static/js/main.a588fbd4.js",
+    "main.js": "/Myrhoiazov/dental/static/js/main.8bf28370.js",
     "static/css/601.9b41f9d9.chunk.css": "/Myrhoiazov/dental/static/css/601.9b41f9d9.chunk.css",
     "static/js/601.dd9b5e08.chunk.js": "/Myrhoiazov/dental/static/js/601.dd9b5e08.chunk.js",
     "static/css/197.02c50417.chunk.css": "/Myrhoiazov/dental/static/css/197.02c50417.chunk.css",
@@ -29,7 +29,7 @@
     "static/media/getFetch.cjs": "/Myrhoiazov/dental/static/media/getFetch.40f37ddea2378391108f.cjs",
     "static/media/facebook.svg": "/Myrhoiazov/dental/static/media/facebook.0e636a34bcb27ffdf4a853545103a9f9.svg",
     "main.d07d1442.css.map": "/Myrhoiazov/dental/static/css/main.d07d1442.css.map",
-    "main.a588fbd4.js.map": "/Myrhoiazov/dental/static/js/main.a588fbd4.js.map",
+    "main.8bf28370.js.map": "/Myrhoiazov/dental/static/js/main.8bf28370.js.map",
     "601.9b41f9d9.chunk.css.map": "/Myrhoiazov/dental/static/css/601.9b41f9d9.chunk.css.map",
     "601.dd9b5e08.chunk.js.map": "/Myrhoiazov/dental/static/js/601.dd9b5e08.chunk.js.map",
     "197.02c50417.chunk.css.map": "/Myrhoiazov/dental/static/css/197.02c50417.chunk.css.map",
@@ -41,6 +41,6 @@
   },
   "entrypoints": [
     "static/css/main.d07d1442.css",
-    "static/js/main.a588fbd4.js"
+    "static/js/main.8bf28370.js"
   ]
 }
