@@ -1,10 +1,11 @@
-import React, { memo } from 'react';
-import { Typography } from '@mui/material';
+import React, {memo} from 'react';
+import {Typography} from '@mui/material';
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import s from './PortfolioCard.module.scss';
 
-const PortfolioCard = ({ el }) => {
+const PortfolioCard = ({el}) => {
+	console.log('el: ', el);
 	const renderImage = (sourse) => {
 		const targetImage = `assets/images/teams/${sourse}`;
 		return targetImage;
@@ -24,8 +25,7 @@ const PortfolioCard = ({ el }) => {
 					boxShadow: 'rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;',
 				}}
 				data-aos="fade-up"
-				data-aos-delay="300"
-			>
+				data-aos-delay="300">
 				<div className={s.img_thumb}>
 					<img alt={el.title} width="200" src={renderImage(el.img)} />
 				</div>
@@ -35,8 +35,7 @@ const PortfolioCard = ({ el }) => {
 						display: 'flex',
 						flexDirection: 'column',
 						height: '100%',
-					}}
-				>
+					}}>
 					<Typography
 						gutterBottom
 						sx={{
@@ -47,8 +46,7 @@ const PortfolioCard = ({ el }) => {
 							color: 'black',
 							lineHeight: 1.2,
 							flex: 0,
-						}}
-					>
+						}}>
 						{el.title}
 					</Typography>
 					<Typography
@@ -58,8 +56,7 @@ const PortfolioCard = ({ el }) => {
 							color: 'black',
 							flex: 1,
 							fontWeight: 400,
-						}}
-					>
+						}}>
 						{el.text}
 					</Typography>
 				</CardContent>
