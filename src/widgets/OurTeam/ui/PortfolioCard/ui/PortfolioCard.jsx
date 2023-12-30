@@ -5,7 +5,6 @@ import CardContent from '@mui/material/CardContent';
 import s from './PortfolioCard.module.scss';
 
 const PortfolioCard = ({el}) => {
-	console.log('el: ', el);
 	const renderImage = (sourse) => {
 		const targetImage = `assets/images/teams/${sourse}`;
 		return targetImage;
@@ -16,18 +15,17 @@ const PortfolioCard = ({el}) => {
 			<Card
 				key={el.id}
 				sx={{
-					maxWidth: 300,
+					maxWidth: 350,
 					display: 'flex',
 					flexDirection: 'column',
 					backgroundColor: 'transparent',
 					paddingBottom: 2,
-					position: 'relative',
 					boxShadow: 'rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;',
 				}}
 				data-aos="fade-up"
 				data-aos-delay="300">
 				<div className={s.img_thumb}>
-					<img alt={el.title} width="200" src={renderImage(el.img)} />
+					<img alt={el.title} width="250" src={renderImage(el.img)} />
 				</div>
 
 				<CardContent

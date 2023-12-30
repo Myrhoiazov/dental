@@ -1,87 +1,9 @@
-@import 'shared/styles/variables';
-
-
-.buy {
-	font-size: 14px;
-	text-align: center;
-	display: inline-block;
-	text-decoration: none;
-	padding: 13px 18px;
-	border: none;
-	border-radius: 60px;
-
-	color: black;
-	border: 1px solid $primary-text-color;
-	background-color: transparent;
-	width: 40%;
-	margin-left: auto;
-
-	transition: all $transition;
-
-	&:hover {
-		color: $white;
-		background-color: $primary-text-color;
-	}
-}
-
-
-.badge {
-	position: absolute;
-	top: 10px;
-	left: 10px;
-	font-size: 12px;
-	color: $white;
-	width: 50px;
-	height: 50px;
-	border-radius: 50%;
-
-	display: flex;
-	align-items: center;
-	justify-content: center;
-
-	&.online {
-		background-color: $accent-online;
-	}
-
-	&.offline {
-		color: $black-light;
-		background-color: $accent-offline;
-	}
-}
-
-.price {
-	font-size: 14px;
-	display: inline-block;
-	margin-left: 5px;
-}
-
-.study {
-	color: $white;
-	align-self: baseline;
-	font-size: 12px;
-	margin-bottom: 20px;
-	padding: 5px 10px;
-	box-shadow: $active-shadow;
-	background-color: $primary-text-color;
-
-	&.online {
-		background-color: $accent-online;
-	}
-
-	&.offline {
-		color: $black-light;
-		background-color: $accent-offline;
-	}
-
-}
-
 .img_thumb {
 	max-height: 300px;
 	width: 100%;
 	overflow: hidden;
 
 	img {
-		max-width: 300px;
 		width: 100%;
 		display: block;
 		object-fit: cover;
