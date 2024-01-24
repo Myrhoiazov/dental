@@ -57,8 +57,8 @@
 	"courses": [
 		{
 			"id": "1",
-			"title": "Marina Lalakina",
-			"text": "Director",
+			"title": "Dr. Maryna Lalakina",
+			"text": "Chirurg-implantolog-protetyk",
 			"img": "Marina_Lalakina.jpg"
 		},
 		{
@@ -78,6 +78,12 @@
 			"title": "Ivanna",
 			"text": "Masażysta",
 			"img": "4.jpg"
+		},
+		{
+			"id": "5",
+			"title": "Edyta",
+			"text": "Administration",
+			"img": "5.jpg"
 		},
 		{
 			"id": "6",
