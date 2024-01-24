@@ -80,12 +80,6 @@
 			"img": "4.jpg"
 		},
 		{
-			"id": "5",
-			"title": "Dr. Denys",
-			"text": "Example text about doctor",
-			"img": "5.jpg"
-		},
-		{
 			"id": "6",
 			"title": "Agnieszka",
 			"text": "Asystentka stomatologiczna",
@@ -96,18 +90,6 @@
 			"title": "Zuzanna",
 			"text": "Asystentka stomatologiczna",
 			"img": "7.jpg"
-		},
-		{
-			"id": "8",
-			"title": "Dr. Denys",
-			"text": "Example text about doctor",
-			"img": "8.jpg"
-		},
-		{
-			"id": "9",
-			"title": "Dr. Denys",
-			"text": "Example text about doctor",
-			"img": "9.jpg"
 		}
 	],
 	"get": [
