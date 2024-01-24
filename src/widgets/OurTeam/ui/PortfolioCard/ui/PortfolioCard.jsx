@@ -14,6 +14,7 @@ const PortfolioCard = ({el}) => {
 		<div>
 			<Card
 				key={el.id}
+				className={s.item}
 				sx={{
 					maxWidth: 350,
 					display: 'flex',

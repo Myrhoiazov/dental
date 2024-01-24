@@ -24,7 +24,7 @@ i18n.use(Backend)
 	.use(initReactI18next)
 	.init({
 		resources,
-		fallbackLng: 'ua',
+		fallbackLng: 'pl',
 		whitelist: ['ua', 'en', 'ru'],
 		debug: false,
 		detection: {

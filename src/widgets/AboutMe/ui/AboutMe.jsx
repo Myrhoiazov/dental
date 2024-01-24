@@ -23,9 +23,12 @@ const AboutMe = () => {
 							<h2 className={s.subtitle}>
 								{t('about.subtitle')}
 							</h2>
-							<p className={s.text}>{t('about.text1')}</p>
-							<p className={s.text}>{t('about.text2')}</p>
-							<p className={s.text}>{t('about.text3')}</p>
+							<p className={s.text}>{t('about.list.text_1')}</p>
+							<p className={s.text}>{t('about.list.text_2')}</p>
+							<p className={s.text}>{t('about.list.text_3')}</p>
+							<p className={s.text}>{t('about.list.text_4')}</p>
+							<p className={s.text}>{t('about.list.text_5')}</p>
+							<p className={s.text}>{t('about.list.text_6')}</p>
 						</div>
 						<div
 							className={s.videoWrapper}

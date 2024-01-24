@@ -27,15 +27,12 @@ const Hero = () => {
 							<h1 className={s.name} data-aos="fade-right">
 								{t('hero.name')}
 							</h1>
-							<a href="#courses" className={s.buy}>
-								{t('button.buy')}
-							</a>
 						</div>
 					</div>
 					<div className={s.thumb} data-aos="fade-left">
 						<img
 							src={Dr}
-							alt="Фото Антонина"
+							alt="Marina Lalakina"
 							width="450"
 							className={s.heroImg}
 						/>

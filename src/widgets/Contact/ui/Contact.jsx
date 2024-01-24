@@ -4,17 +4,14 @@ import AccessTimeIcon from '@mui/icons-material/AccessTime';
 import PermPhoneMsgIcon from '@mui/icons-material/PermPhoneMsg';
 import LocalPostOfficeIcon from '@mui/icons-material/LocalPostOffice';
 import InstagramIcon from '@mui/icons-material/Instagram';
-import TelegramIcon from '@mui/icons-material/Telegram';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import {useTranslation} from 'react-i18next';
 import Container from 'shared/ui/container/Container';
-import mastercard from 'shared/assets/images/pay-method/mastercard.png';
-import paypal from 'shared/assets/images/pay-method/paypal.png';
-import visa from 'shared/assets/images/pay-method/visa_new.png';
 import {ReactComponent as Location} from 'shared/assets/icon/location.svg';
-import {Link} from 'react-router-dom';
+import {ReactComponent as Fb} from 'shared/assets/icon/facebook.svg';
 import 'shared/config/i18n/i18next';
 import s from './Contact.module.scss';
+import Map from 'shared/ui/Map/Map';
 
 const Contact = () => {
 	const {t} = useTranslation();
@@ -89,7 +86,7 @@ const Contact = () => {
 								</li>
 								<li className={s.contactItem}>
 									<a href="/">
-										<TelegramIcon className={s.icon} />
+										<Fb className={s.icon} />
 										Telegram
 									</a>
 								</li>
@@ -101,50 +98,8 @@ const Contact = () => {
 								</li>
 							</ul>
 						</li>
-						<li className={s.item}>
-							<h3 className={s.subtitle}>
-								{t('contacts.block_3')}
-							</h3>
-							<ul className={s.contactList}>
-								<li className={s.contactItem}>
-									<Link to="/">{t('policy.policy')}</Link>
-								</li>
-								<li className={s.contactItem}>
-									<Link to="/">{t('policy.confi')}</Link>
-								</li>
-							</ul>
-						</li>
 					</ul>
-
-					<div className={s.payment_container}>
-						<h3 className={s.subtitle}>{t('contacts.payment')}</h3>
-						<ul className={s.payment}>
-							<li className={s.pay}>
-								<img
-									src={`${mastercard}`}
-									width="70"
-									alt="mastercard"
-									loading="lazy"
-								/>
-							</li>
-							<li className={s.pay}>
-								<img
-									src={`${visa}`}
-									width="70"
-									alt="mastercard"
-									loading="lazy"
-								/>
-							</li>
-							<li className={s.pay}>
-								<img
-									src={`${paypal}`}
-									width="70"
-									alt="mastercard"
-									loading="lazy"
-								/>
-							</li>
-						</ul>
-					</div>
+					<Map />
 				</div>
 			</Container>
 		</section>

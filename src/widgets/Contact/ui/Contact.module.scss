@@ -2,11 +2,7 @@
 
 .inner_wrapper {
 	padding-top: 60px;
-	padding-bottom: 60px;
-
-	@media screen and (max-width: 767px) {
-		padding-bottom: 40px;
-	}
+	padding-bottom: 40px;
 
 }
 
@@ -19,7 +15,7 @@
 
 .items {
 	display: flex;
-	justify-content: center;
+	justify-content: space-around;
 	gap: 20px;
 	padding: 0 30px;
 
@@ -71,6 +67,7 @@
 					margin-right: 10px;
 					width: 20px;
 					height: 20px;
+					transition: all $transition;
 				}
 
 				span {
@@ -81,6 +78,10 @@
 			&:hover {
 				a {
 					color: $primary-text-color;
+				}
+
+				.icon {
+					fill: $primary-text-color;
 				}
 			}
 		}
@@ -154,7 +155,6 @@
 	flex-wrap: wrap;
 	gap: 20px;
 	padding: 0px 30px;
-	padding-top: 80px;
 
 	@media screen and (max-width: 767px) {
 		padding-top: 10px;
