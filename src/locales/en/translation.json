@@ -3,11 +3,8 @@
 	"About me": "About us",
 	"Courses": "Services",
 	"Prices": "Prices",
+	"Masters": "Masters",
 	"Contact": "Contact",
-	"policy": {
-		"policy": "Rules",
-		"confi": "Confidentiality"
-	},
 	"hero": {
 		"hello": "We kindly ask you to the dental clinics. Our goal is to keep your teeth healthy. We have given a lot of respect to him to create",
 		"hello-accent": "a more stylish, high-tech, yet more comfortable solution for all our patients.",
@@ -18,7 +15,7 @@
 		"buy": "Read more..."
 	},
 	"action": {
-		"splide": "Buy 2 items and get 10% discount"
+		"splide": "Innovation Dental Clinic"
 	},
 	"about": {
 		"title": "About our company",
@@ -54,48 +51,648 @@
 	"shedule": {
 		"text": "Mo-Sa 9:00am - 20:00pm"
 	},
+	"price": {
+		"title": "Price",
+		"subtitle": "",
+		"list": [
+			{
+				"title": "Consultation or Examination",
+				"services": [
+					{
+						"name": "Consultation to determine the treatment plan",
+						"desc": "",
+						"price": "155"
+					},
+					{
+						"name": "Clinical examination",
+						"desc": "external and internal oral cavity examination, X-ray",
+						"price": "185"
+					},
+					{
+						"name": "Follow-up clinical examination",
+						"desc": "post-surgical, free of charge within a year",
+						"price": "115"
+					},
+					{
+						"name": "Clinical examination with laser",
+						"desc": "LASOTRONIX",
+						"price": "205"
+					},
+					{
+						"name": "Light-cured filling",
+						"desc": "permanent teeth",
+						"price": "205 / 245 / 285 / 305"
+					},
+					{
+						"name": "X-ray",
+						"desc": "",
+						"price": "55"
+					},
+					{
+						"name": "Dressing",
+						"desc": "",
+						"price": "85"
+					},
+					{
+						"name": "Rubber dam",
+						"desc": "",
+						"price": "100"
+					},
+					{
+						"name": "Light-cured filling",
+						"desc": "deciduous teeth",
+						"price": "155"
+					},
+					{
+						"name": "Light-cured cervical filling",
+						"desc": "",
+						"price": "155"
+					},
+					{
+						"name": "Glass-ionomer filling",
+						"desc": "",
+						"price": "255"
+					},
+					{
+						"name": "Tooth reconstruction with fiber",
+						"desc": "",
+						"price": "550"
+					}
+				]
+			},
+			{
+				"title": "HYGIENIC PROPHYLAXIS",
+				"services": [
+					{
+						"name": "Scaling",
+						"desc": "",
+						"price": "155"
+					},
+					{
+						"name": "Sandblasting",
+						"desc": "",
+						"price": "175"
+					},
+					{
+						"name": "Scaling + sandblasting + contact fluoridation",
+						"desc": "",
+						"price": "265"
+					},
+					{
+						"name": "Hygienization according to GBT",
+						"desc": "plaque discoloration, scaling, sandblasting, fluoridation",
+						"price": "350"
+					},
+					{
+						"name": "Lacquering",
+						"desc": "entire",
+						"price": "155"
+					},
+					{
+						"name": "Lacquering",
+						"desc": "1 tooth",
+						"price": "85"
+					},
+					{
+						"name": "Lacquering",
+						"desc": "1 tooth",
+						"price": "85"
+					}
+				]
+			},
+			{
+				"title": "AESTHETICS",
+				"services": [
+					{
+						"name": "Teeth whitening with tray method",
+						"desc": "",
+						"price": "915"
+					},
+					{
+						"name": "BEYOND teeth whitening",
+						"desc": "",
+						"price": "1015"
+					},
+					{
+						"name": "PREVDENT teeth whitening",
+						"desc": "",
+						"price": "1655"
+					},
+					{
+						"name": "PREVDENT for couples",
+						"desc": "",
+						"price": "2655"
+					},
+					{
+						"name": "BLANCONE banquet teeth whitening + scaling + sand",
+						"desc": "",
+						"price": "505"
+					},
+					{
+						"name": "BLANCONE banquet teeth whitening + sand",
+						"desc": "",
+						"price": "415"
+					},
+					{
+						"name": "BLANCONE teeth whitening",
+						"desc": "",
+						"price": "285"
+					}
+				]
+			},
+			{
+				"title": "PROSTHETICS",
+				"services": [
+					{
+						"name": "Acrylic Crown",
+						"desc": "",
+						"price": "255"
+					},
+					{
+						"name": "Full Cast Metal Crown",
+						"desc": "",
+						"price": "700"
+					},
+					{
+						"name": "Porcelain Veneer",
+						"desc": "",
+						"price": "1600"
+					},
+					{
+						"name": "Crown Removal",
+						"desc": "",
+						"price": "100"
+					},
+					{
+						"name": "Bite-Relaxation Splint",
+						"desc": "",
+						"price": "700"
+					},
+					{
+						"name": "Sports Mouthguard",
+						"desc": "",
+						"price": "700"
+					},
+					{
+						"name": "Surcharge for Ivcoclar Teeth",
+						"desc": "",
+						"price": "250"
+					},
+					{
+						"name": "Bridge Prosthesis",
+						"desc": "",
+						"price": "1520"
+					},
+					{
+						"name": "Snap or Latch for Clasp-Free Denture",
+						"desc": "",
+						"price": "760"
+					},
+					{
+						"name": "Pressed Full-Ceramic Crown",
+						"desc": "",
+						"price": "1520"
+					},
+					{
+						"name": "Procera Full-Ceramic Crown",
+						"desc": "",
+						"price": "2000"
+					},
+					{
+						"name": "Full-Ceramic Crown on Zirconium Oxide",
+						"desc": "",
+						"price": "1840"
+					},
+					{
+						"name": "Full-Ceramic Insert",
+						"desc": "",
+						"price": "885"
+					},
+					{
+						"name": "Nylon Skeleton Crown",
+						"price": "1000",
+						"desc": ""
+					},
+					{
+						"name": "Metal + Ceramic Crown",
+						"price": "1025",
+						"desc": ""
+					},
+					{
+						"name": "Zirconium Crown",
+						"price": "1500",
+						"desc": ""
+					},
+					{
+						"name": "Zirconium Veneer",
+						"price": "1500",
+						"desc": ""
+					}
+				]
+			},
+			{
+				"title": "IMPLANTOLOGY",
+				"services": [
+					{
+						"name": "Implant",
+						"price": "2800",
+						"desc": ""
+					},
+					{
+						"name": "Crown on Implant",
+						"price": "2000",
+						"desc": ""
+					},
+					{
+						"name": "Gingival Former",
+						"price": "150",
+						"desc": ""
+					}
+				]
+			},
+			{
+				"title": "SURGERY",
+				"services": [
+					{
+						"name": "Removal of Baby Tooth",
+						"price": "155",
+						"desc": ""
+					},
+					{
+						"name": "Removal of Root",
+						"price": "155",
+						"desc": ""
+					},
+					{
+						"name": "Extraction of Permanent Tooth",
+						"price": "",
+						"desc": ""
+					},
+					{
+						"name": "Erupted",
+						"price": "515",
+						"desc": ""
+					},
+					{
+						"name": "Impacted",
+						"price": "615",
+						"desc": ""
+					},
+					{
+						"name": "Erupted",
+						"price": "315",
+						"desc": ""
+					},
+					{
+						"name": "Impacted",
+						"price": "415",
+						"desc": ""
+					},
+					{
+						"name": "Sinus Plastic Surgery",
+						"price": "915",
+						"desc": ""
+					},
+					{
+						"name": "Adult",
+						"price": "155",
+						"desc": ""
+					},
+					{
+						"name": "Child",
+						"price": "155",
+						"desc": ""
+					},
+					{
+						"name": "Incision and Drainage of Abscess",
+						"price": "55",
+						"desc": ""
+					},
+					{
+						"name": "Surgical Removal of Cyst",
+						"price": "450",
+						"desc": ""
+					},
+					{
+						"name": "Root Apex Resection",
+						"price": "500",
+						"desc": ""
+					},
+					{
+						"name": "Closed Curettage",
+						"price": "250",
+						"desc": "quarter"
+					},
+					{
+						"name": "Closed Curettage",
+						"price": "500",
+						"desc": "arch"
+					},
+					{
+						"name": "Open Curettage",
+						"price": "400",
+						"desc": "quarter"
+					},
+					{
+						"name": "Open Curettage",
+						"price": "800",
+						"desc": "arch"
+					}
+				]
+			},
+			{
+				"title": "ENDODONTICS",
+				"services": [
+					{
+						"name": "Root Canal Treatment with Filling (1 canal)",
+						"price": "405",
+						"desc": ""
+					},
+					{
+						"name": "Root Canal Treatment with Filling (2 canals)",
+						"price": "505",
+						"desc": ""
+					},
+					{
+						"name": "Root Canal Treatment with Filling (3 canals)",
+						"price": "605",
+						"desc": ""
+					},
+					{
+						"name": "Placement of Medication in the Canal",
+						"price": "115",
+						"desc": ""
+					}
+				]
+			},
+			{
+				"title": "MICROSCOPE-ASSISTED ENDODONTICS",
+				"services": [
+					{
+						"name": "Root Canal Treatment of Tooth - 1 Canal",
+						"price": "755",
+						"desc": ""
+					},
+					{
+						"name": "Root Canal Treatment of Tooth - 2 Canals",
+						"price": "1205",
+						"desc": ""
+					},
+					{
+						"name": "Root Canal Treatment of Tooth - 3 Canals",
+						"price": "1605",
+						"desc": ""
+					},
+					{
+						"name": "Root Canal Treatment of Tooth - 4 Canals",
+						"price": "1805",
+						"desc": ""
+					}
+				]
+			},
+			{
+				"title": "REENDO",
+				"services": [
+					{
+						"name": "Removal of Broken Instrument/Post/Closure of MTA Perforation",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Placement of Intracanal Filling after Root Resection",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Preparation of Tooth for Treatment with Rubber Dam",
+						"desc": "",
+						"price": ""
+					}
+				]
+			},
+			{
+				"title": "ORTHODONTICS",
+				"services": [
+					{
+						"name": "Orthodontic Consultation",
+						"price": "155",
+						"desc": ""
+					},
+					{
+						"name": "Visit with Fixed Appliance",
+						"price": "155 / 205",
+						"desc": ""
+					},
+					{
+						"name": "Standard Fixed Appliance",
+						"price": "2000",
+						"desc": ""
+					},
+					{
+						"name": "Metal Self-ligating Appliance",
+						"price": "2500",
+						"desc": ""
+					},
+					{
+						"name": "Porcelain Self-ligating Appliance",
+						"price": "2500",
+						"desc": ""
+					},
+					{
+						"name": "Sapphire Appliance",
+						"price": "3500",
+						"desc": ""
+					},
+					{
+						"name": "Removal of Fixed Appliance",
+						"price": "205",
+						"desc": ""
+					},
+					{
+						"name": "Schwarz Plate",
+						"price": "605",
+						"desc": ""
+					},
+					{
+						"name": "Twin-block",
+						"price": "1305",
+						"desc": ""
+					},
+					{
+						"name": "Eliner",
+						"price": "305",
+						"desc": "1 arch"
+					},
+					{
+						"name": "Appliance Repair",
+						"price": "305",
+						"desc": ""
+					},
+					{
+						"name": "Haas on Rails",
+						"price": "1205",
+						"desc": ""
+					},
+					{
+						"name": "Additional Palatal Appliance",
+						"price": "",
+						"desc": ""
+					},
+					{
+						"name": "Oral Cavity Scan",
+						"price": "155",
+						"desc": ""
+					},
+					{
+						"name": "Trainer",
+						"price": "655",
+						"desc": ""
+					},
+					{
+						"name": "Bonded Retention",
+						"price": "355",
+						"desc": ""
+					},
+					{
+						"name": "Retentive Plate",
+						"price": "305",
+						"desc": ""
+					},
+					{
+						"name": "Treatment Plan",
+						"price": "305",
+						"desc": ""
+					}
+				]
+			},
+			{
+				"title": "LASER TREATMENT",
+				"services": [
+					{
+						"name": "Inflammation of Tooth Pulp",
+						"desc": "1 session",
+						"price": ""
+					},
+					{
+						"name": "Gum Inflammation",
+						"desc": "1 arch",
+						"price": ""
+					},
+					{
+						"name": "Inflammation Around Erupting Wisdom Tooth",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Tooth Sensitivity 1 arch",
+						"desc": "1 session",
+						"price": ""
+					},
+					{
+						"name": "Tooth Sensitivity",
+						"desc": "1 tooth",
+						"price": ""
+					},
+					{
+						"name": "Periodontal Pocket Disinfection",
+						"desc": "1 tooth",
+						"price": ""
+					},
+					{
+						"name": "Exposure of Wisdom Tooth",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Gum Correction",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Chronic Maxillary Sinusitis",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Cold Sores / Herpes / Angular Cheilitis / Oral Mucosal Lesions",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Biomodulation, Biostimulation",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Art from the Display",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Cosmetic Service",
+						"desc": "",
+						"price": ""
+					}
+				]
+			}
+		]
+	},
 	"courses": [
 		{
 			"id": "1",
 			"title": "Dr. Maryna Lalakina",
-			"text": "Chirurg-implantolog-protetyk",
+			"subtext": "Chirurg Implantolog Protetyk",
+			"text": "",
 			"img": "Marina_Lalakina.jpg"
 		},
 		{
 			"id": "2",
 			"title": "Weronika Gargała",
-			"text": "Asystentka stomatologiczna",
+			"subtext": "Asystentka stomatologiczna",
+			"text": "",
 			"img": "1.jpg"
 		},
 		{
 			"id": "3",
 			"title": "Anna Ben",
-			"text": "Kosmetolog",
+			"subtext": "Kosmetolog",
+			"text": "",
 			"img": "2.jpg"
 		},
 		{
 			"id": "4",
 			"title": "Ivanna",
-			"text": "Masażysta",
+			"subtext": "Masażysta",
+			"text": "",
 			"img": "4.jpg"
 		},
 		{
 			"id": "5",
 			"title": "Edyta",
-			"text": "Administration",
+			"subtext": "Administration",
+			"text": "",
 			"img": "5.jpg"
 		},
 		{
 			"id": "6",
 			"title": "Agnieszka",
-			"text": "Asystentka stomatologiczna",
+			"subtext": "Asystentka stomatologiczna",
+			"text": "",
 			"img": "6.jpg"
 		},
 		{
 			"id": "7",
 			"title": "Zuzanna",
-			"text": "Asystentka stomatologiczna",
+			"subtext": "Asystentka stomatologiczna",
+			"text": "",
 			"img": "7.jpg"
+		},
+		{
+			"id": "8",
+			"title": "Oleksiy Volkov",
+			"subtext": "Dental specialist",
+			"text": "",
+			"img": "3.jpg"
 		}
 	],
 	"get": [

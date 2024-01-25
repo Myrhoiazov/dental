@@ -8,8 +8,8 @@ const headerMenu = [
 		to: '#about',
 	},
 	{
-		name: 'Courses',
-		to: '#courses',
+		name: 'Masters',
+		to: '#masters',
 	},
 	{
 		name: 'Prices',

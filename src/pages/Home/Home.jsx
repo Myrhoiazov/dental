@@ -1,10 +1,11 @@
-import { useEffect, memo, useCallback } from 'react';
+import {useEffect, memo, useCallback} from 'react';
 import AOS from 'aos';
 import AboutMe from 'widgets/AboutMe/';
 import OurTeam from 'widgets/OurTeam';
 import AfterCourse from 'widgets/AfterCourse';
 import Hero from 'widgets/Hero';
 import 'aos/dist/aos.css';
+import Price from 'widgets/Price';
 
 const Home = () => {
 	const initEffect = useCallback(() => {
@@ -26,6 +27,7 @@ const Home = () => {
 			<AboutMe />
 			<OurTeam />
 			<AfterCourse />
+			<Price />
 		</>
 	);
 };

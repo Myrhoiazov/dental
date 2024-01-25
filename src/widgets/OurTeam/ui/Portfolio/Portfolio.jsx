@@ -24,7 +24,7 @@ const Portfolio = () => {
 	}
 
 	return (
-		<section id="courses">
+		<section id="masters">
 			<Container>
 				<Box
 					sx={{

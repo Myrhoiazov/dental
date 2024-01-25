@@ -38,7 +38,7 @@ const PortfolioCard = ({el}) => {
 					<Typography
 						gutterBottom
 						sx={{
-							fontSize: '1rem',
+							fontSize: '1.2rem',
 							marginBottom: 2,
 							fontWeight: 700,
 							textTransform: 'uppercase',
@@ -53,10 +53,11 @@ const PortfolioCard = ({el}) => {
 						color="text.secondary"
 						sx={{
 							color: 'black',
+							fontSize: '1rem',
 							flex: 1,
 							fontWeight: 400,
 						}}>
-						{el.text}
+						{el.subtext}
 					</Typography>
 				</CardContent>
 			</Card>

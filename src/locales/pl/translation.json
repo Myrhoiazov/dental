@@ -3,11 +3,8 @@
 	"About me": "O nas",
 	"Courses": "Usługi",
 	"Prices": "Ceny",
+	"Masters": "Mistrzowie",
 	"Contact": "Łączność",
-	"policy": {
-		"policy": "Правила",
-		"confi": "Конфіденційність"
-	},
 	"hero": {
 		"hello": "Witamy w gabinetach stomatologicznych. Naszym głównym celem jest utrzymanie zdrowych zębów i dziąseł. Dużo uwagi poświęciliśmy tworzeniu",
 		"hello-accent": "stylowe, zaawansowane technologicznie, a jednocześnie wygodne środowisko dla wszystkich naszych pacjentów.",
@@ -18,7 +15,7 @@
 		"buy": "Читати більше..."
 	},
 	"action": {
-		"splide": "Придбай 2 курси та отримай знижку 10%"
+		"splide": "Innovation Dental Clinic"
 	},
 	"about": {
 		"title": "O nas",
@@ -39,63 +36,663 @@
 		"products": "Nasz zespół",
 		"subtext": ""
 	},
+	"price": {
+		"title": "Ceny",
+		"subtitle": "",
+		"list": [
+			{
+				"title": "Konsultacja lub badanie",
+				"services": [
+					{
+						"name": "Konsultacja z ustaleniem planu leczenie",
+						"desc": "",
+						"price": "155"
+					},
+					{
+						"name": "Badanie kliniczne",
+						"desc": "badanie zew i wew jamy ustnej, rtg",
+						"price": "185"
+					},
+					{
+						"name": "Badanie kliniczne kontrolne",
+						"desc": "po zabiegu chir, do roku czasu bezpłatnie",
+						"price": "115"
+					},
+					{
+						"name": "Badanie kliniczne laserem",
+						"desc": "LASOTRONIX",
+						"price": "205"
+					},
+					{
+						"name": "Wypełnienie światłoutwardzalne",
+						"desc": "zęby stałe",
+						"price": "205 / 245 / 285 / 305"
+					},
+					{
+						"name": "RTG",
+						"desc": "",
+						"price": "55"
+					},
+					{
+						"name": "Opatrunek",
+						"desc": "",
+						"price": "85"
+					},
+					{
+						"name": "Koferdam",
+						"desc": "",
+						"price": "100"
+					},
+					{
+						"name": "Wypełnienie światłoutwardzalne",
+						"desc": "zęby mleczne",
+						"price": "155"
+					},
+					{
+						"name": "Wypełenie światło utwardzalne przyszyjkowe",
+						"desc": "",
+						"price": "155"
+					},
+					{
+						"name": "Wypełnienie glassjonomerowe",
+						"desc": "",
+						"price": "255"
+					},
+					{
+						"name": "Rekonstrukcja zęba na włóknie",
+						"desc": "",
+						"price": "550"
+					}
+				]
+			},
+			{
+				"title": "PROFILAKTYKA HIGIENISTYCZNA",
+				"services": [
+					{
+						"name": "Scaling",
+						"desc": "",
+						"price": "155"
+					},
+					{
+						"name": "Piaskowanie",
+						"desc": "",
+						"price": "175"
+					},
+					{
+						"name": "Scaling + piaskowanie + fluoryzacja kontaktowa",
+						"desc": "",
+						"price": "265"
+					},
+					{
+						"name": "Higienizacja wg GBT",
+						"desc": "wybarwianie płytki, scaling, piaskowanie, fluoryzacja",
+						"price": "350"
+					},
+					{
+						"name": "Lakierowanie",
+						"desc": "calość",
+						"price": "155"
+					},
+					{
+						"name": "Lakierowanie",
+						"desc": "1 ząb",
+						"price": "85"
+					},
+					{
+						"name": "Lakierowanie",
+						"desc": "1 ząb",
+						"price": "85"
+					}
+				]
+			},
+			{
+				"title": "ESTETYKA",
+				"services": [
+					{
+						"name": "Wyielanie metodą nakładkową",
+						"desc": "",
+						"price": "915"
+					},
+					{
+						"name": "Wybielanie metodą BEYOND",
+						"desc": "",
+						"price": "1015"
+					},
+					{
+						"name": "Wybielanie PREVDENT",
+						"desc": "",
+						"price": "1655"
+					},
+					{
+						"name": "PREVDENT dla par",
+						"desc": "",
+						"price": "2655"
+					},
+					{
+						"name": "Wybielanie bankietowe metodą BLANCONE + scaling + piasek",
+						"desc": "",
+						"price": "505"
+					},
+					{
+						"name": "Wybielanie bankietowe metodą BLANCONE + piasek",
+						"desc": "",
+						"price": "415"
+					},
+					{
+						"name": "Wybielanie BLANCONE",
+						"desc": "",
+						"price": "285"
+					}
+				]
+			},
+			{
+				"title": "PROTETYKA",
+				"services": [
+					{
+						"name": "Korona akrylowa",
+						"desc": "",
+						"price": "255"
+					},
+					{
+						"name": "Korona Metalowa pełnolana",
+						"desc": "",
+						"price": "700"
+					},
+					{
+						"name": "Licówka Porcelanowa",
+						"desc": "",
+						"price": "1600"
+					},
+					{
+						"name": "Zdjęcie korony",
+						"desc": "",
+						"price": "100"
+					},
+					{
+						"name": "Szyna nagryzowo-relaksacyjna",
+						"desc": "",
+						"price": "700"
+					},
+					{
+						"name": "Ochraniacz dla sportowców",
+						"desc": "",
+						"price": "700"
+					},
+					{
+						"name": "Dopłata do zębów Ivcoclar",
+						"desc": "",
+						"price": "250"
+					},
+					{
+						"name": "Szynoproteza",
+						"desc": "",
+						"price": "1520"
+					},
+					{
+						"name": "Zatrzask lub zasuwa prot. Do protezy bezklamrowej",
+						"desc": "",
+						"price": "760"
+					},
+					{
+						"name": "Korona pełnoceramiczna prasowana",
+						"desc": "",
+						"price": "1520"
+					},
+					{
+						"name": "Korona pełnoceramiczna procera",
+						"desc": "",
+						"price": "2000"
+					},
+					{
+						"name": "Korona pełnoceramiczna na tlenku cyrkonu",
+						"desc": "",
+						"price": "1840"
+					},
+					{
+						"name": "Wkład pełnoceramiczny",
+						"desc": "",
+						"price": "885"
+					},
+					{
+						"name": "Szkieletowa nylonowa",
+						"price": "1000",
+						"desc": ""
+					},
+					{
+						"name": "Korona metal + ceramika",
+						"price": "1025",
+						"desc": ""
+					},
+					{
+						"name": "Korona cyrkon",
+						"price": "1500",
+						"desc": ""
+					},
+					{
+						"name": "Licówka cyrkon",
+						"price": "1500",
+						"desc": ""
+					}
+				]
+			},
+			{
+				"title": "IMPLANTOLOGIA",
+				"services": [
+					{
+						"name": "Implant",
+						"price": "2800",
+						"desc": ""
+					},
+					{
+						"name": "Korona na implant",
+						"price": "2000",
+						"desc": ""
+					},
+					{
+						"name": "Formówka dziąseł",
+						"price": "150",
+						"desc": ""
+					}
+				]
+			},
+			{
+				"title": "CHIRURGIA",
+				"services": [
+					{
+						"name": "Usunięcie zęba mlecznego",
+						"price": "155",
+						"desc": ""
+					},
+					{
+						"name": "Usunięcie korzenia",
+						"price": "155",
+						"desc": ""
+					},
+					{
+						"name": "Usunięcie zęba stałego",
+						"price": "",
+						"desc": ""
+					},
+					{
+						"name": "Wyrżnięta",
+						"price": "515",
+						"desc": ""
+					},
+					{
+						"name": "Zatrzymana",
+						"price": "615",
+						"desc": ""
+					},
+					{
+						"name": "Wyrżnięta",
+						"price": "315",
+						"desc": ""
+					},
+					{
+						"name": "Zatrzymana",
+						"price": "415",
+						"desc": ""
+					},
+					{
+						"name": "Plastyka zatoki",
+						"price": "915",
+						"desc": ""
+					},
+					{
+						"name": "Dorosły",
+						"price": "155",
+						"desc": ""
+					},
+					{
+						"name": "Dziecko",
+						"price": "155",
+						"desc": ""
+					},
+					{
+						"name": "Nacięcie i drenaż ropnia",
+						"price": "55",
+						"desc": ""
+					},
+					{
+						"name": "Usunięcie chirurgiczne torbieli",
+						"price": "450",
+						"desc": ""
+					},
+					{
+						"name": "Resekcja wierzchołka korzenia",
+						"price": "500",
+						"desc": ""
+					},
+					{
+						"name": "Kiretaż zamknięty",
+						"price": "250",
+						"desc": "ćwiartka"
+					},
+					{
+						"name": "Kiretaż zamkniety",
+						"price": "500",
+						"desc": "łuk"
+					},
+					{
+						"name": "Kiretaż otwarty",
+						"price": "400",
+						"desc": "ćwiartka"
+					},
+					{
+						"name": "Kiretaż otwarty",
+						"price": "800",
+						"desc": "łuk"
+					}
+				]
+			},
+			{
+				"title": "ENDODONCJA",
+				"services": [
+					{
+						"name": "Leczenie kanałowe z wypeł. 1 kanału",
+						"price": "405",
+						"desc": ""
+					},
+					{
+						"name": "Leczenie kanałowe z wypeł. 2 kanałów",
+						"price": "505",
+						"desc": ""
+					},
+					{
+						"name": "Leczenie kanałowe z wypeł. 3 kanałów",
+						"price": "605",
+						"desc": ""
+					},
+					{
+						"name": "Założenie leku do kanału",
+						"price": "115",
+						"desc": ""
+					}
+				]
+			},
+			{
+				"title": "ENDODONCJA POD MIKROSKOPEM",
+				"services": [
+					{
+						"name": "Leczenie kanałowe zęba -1 kanał",
+						"price": "755",
+						"desc": ""
+					},
+					{
+						"name": "Leczenie kanałowe zęba -2 kanały",
+						"price": "1205",
+						"desc": ""
+					},
+					{
+						"name": "Leczenie kanałowe zęba -3 kanały",
+						"price": "1605",
+						"desc": ""
+					},
+					{
+						"name": "Leczenie kanałowe zęba -4 kanały",
+						"price": "1805",
+						"desc": ""
+					}
+				]
+			},
+			{
+				"title": "REENDO",
+				"services": [
+					{
+						"name": "· Usunięcie złamanego narzędzia/ wkładu/ zamknięcie perforacji MTA",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Wypełnienie wstaczne kanału po resekcji korzenia",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Przygotowanie zęba do leczenia w koferdamie",
+						"desc": "",
+						"price": ""
+					}
+				]
+			},
+			{
+				"title": "ORTODONCJA",
+				"services": [
+					{
+						"name": "Konsultacja ortodontyczna",
+						"price": "155",
+						"desc": ""
+					},
+					{
+						"name": "Wizyta z aparatem stałym",
+						"price": "155 / 205",
+						"desc": ""
+					},
+					{
+						"name": "Aparat stały standardowy",
+						"price": "2000",
+						"desc": ""
+					},
+					{
+						"name": "Aparat bezligaturowy metalowy",
+						"price": "2500",
+						"desc": ""
+					},
+					{
+						"name": "Aparat bezligaturowy porcelanowy",
+						"price": "2500",
+						"desc": ""
+					},
+					{
+						"name": "Aparat szafirowy",
+						"price": "3500",
+						"desc": ""
+					},
+					{
+						"name": "Zdjęcie aparatu stałego",
+						"price": "205",
+						"desc": ""
+					},
+					{
+						"name": "Płytka schwrza",
+						"price": "605",
+						"desc": ""
+					},
+					{
+						"name": "Twin-blok",
+						"price": "1305",
+						"desc": ""
+					},
+					{
+						"name": "Eliner",
+						"price": "305",
+						"desc": "1 łuk"
+					},
+					{
+						"name": "Naprawa aparatu",
+						"price": "305",
+						"desc": ""
+					},
+					{
+						"name": "Haas na szynach",
+						"price": "1205",
+						"desc": ""
+					},
+					{
+						"name": "Dodatkowy aparat na podniebieniu",
+						"price": "",
+						"desc": ""
+					},
+					{
+						"name": "Skan jamy ustnej",
+						"price": "155",
+						"desc": ""
+					},
+					{
+						"name": "Trainer",
+						"price": "655",
+						"desc": ""
+					},
+					{
+						"name": "Retencja klejona",
+						"price": "355",
+						"desc": ""
+					},
+					{
+						"name": "Płytka retencyjna",
+						"price": "305",
+						"desc": ""
+					},
+					{
+						"name": "Plan leczenia",
+						"price": "305",
+						"desc": ""
+					}
+				]
+			},
+			{
+				"title": "LECZENIE LASEROWE",
+				"services": [
+					{
+						"name": "Stan zapalny miazgi zęba",
+						"desc": "1sesja",
+						"price": ""
+					},
+					{
+						"name": "Stan zapalny dziąseł",
+						"desc": "1 łuk",
+						"price": ""
+					},
+					{
+						"name": "Stan zaplany wokół wyżynającej się ósemki",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Nadwrażliwość zębów 1 łuk",
+						"desc": "1 sesja",
+						"price": ""
+					},
+					{
+						"name": "Nadwrażliwość",
+						"desc": "1 ząb",
+						"price": ""
+					},
+					{
+						"name": "Kiszonkio przyzębne",
+						"desc": "1 ząb",
+						"price": ""
+					},
+					{
+						"name": "Odsłonięcie ósemki",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Korekta dziąsła",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Przewlekłe zapalenie zatok szczękowych",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Ałty / opryszczki / zapalenia kątów ust/zmiany błony śluzowej",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Biomodulacja, biostymulacja",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Art z gabloty",
+						"desc": "",
+						"price": ""
+					},
+					{
+						"name": "Usługa kosmetyczna",
+						"desc": "",
+						"price": ""
+					}
+				]
+			}
+		]
+	},
 	"politics": {
 		"text_1": "Курс був створений для майстрів-перукарів, щоб поділитися інформацією та досвідом. Для фахівців, які не мають можливості відвідати навчання очно.",
 		"text_2": "Курси несуть ознайомлювальний характер із технікою майстра перукаря.",
 		"text_3": "Поширення та продаж курсів придбанних на цьому майданчику заборонено."
 	},
 	"contacts": {
-		"title": "Контакти",
-		"block_1": "Потрібна допомога?",
-		"block_2": "Соціалні мережі",
+		"title": "Łączność",
+		"block_1": "Potrzebuję pomocy?",
+		"block_2": "Linki społecznościowe",
 		"block_3": "Угода користувача:",
 		"payment": "Методи cплати:"
 	},
 	"shedule": {
-		"text": "Пн.-Сб. 9:00 - 20:00"
+		"text": "Pn.-Sb. 9:00 - 20:00"
 	},
 	"courses": [
 		{
 			"id": "1",
 			"title": "Dr. Maryna Lalakina",
-			"text": "Chirurg-implantolog-protetyk",
+			"subtext": "Chirurg Implantolog Protetyk",
+			"text": "",
 			"img": "Marina_Lalakina.jpg"
 		},
 		{
 			"id": "2",
 			"title": "Weronika Gargała",
-			"text": "Asystentka stomatologiczna",
+			"subtext": "Asystentka stomatologiczna",
+			"text": "",
 			"img": "1.jpg"
 		},
 		{
 			"id": "3",
 			"title": "Anna Ben",
-			"text": "Kosmetolog",
+			"subtext": "Kosmetolog",
+			"text": "",
 			"img": "2.jpg"
 		},
 		{
 			"id": "4",
 			"title": "Ivanna",
-			"text": "Masażysta",
+			"subtext": "Masażysta",
+			"text": "",
 			"img": "4.jpg"
 		},
 		{
 			"id": "5",
 			"title": "Edyta",
-			"text": "Administration",
+			"subtext": "Administration",
+			"text": "",
 			"img": "5.jpg"
 		},
 		{
 			"id": "6",
 			"title": "Agnieszka",
-			"text": "Asystentka stomatologiczna",
+			"subtext": "Asystentka stomatologiczna",
+			"text": "",
 			"img": "6.jpg"
 		},
 		{
 			"id": "7",
 			"title": "Zuzanna",
-			"text": "Asystentka stomatologiczna",
+			"subtext": "Asystentka stomatologiczna",
+			"text": "",
 			"img": "7.jpg"
+		},
+		{
+			"id": "8",
+			"title": "Oleksiy Volkov",
+			"subtext": "Specjalista stomatolog",
+			"text": "",
+			"img": "3.jpg"
 		}
 	],
 	"get": [

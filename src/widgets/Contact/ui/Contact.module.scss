@@ -1,8 +1,7 @@
-@import '../../../shared/styles/variables';
+@import 'shared/styles/variables';
 
 .inner_wrapper {
-	padding-top: 60px;
-	padding-bottom: 40px;
+	padding: 40px 0;
 
 }
 
@@ -18,6 +17,7 @@
 	justify-content: space-around;
 	gap: 20px;
 	padding: 0 30px;
+	padding-bottom: 20px;
 
 	@media screen and (max-width: 767px) {
 		flex-direction: column;
