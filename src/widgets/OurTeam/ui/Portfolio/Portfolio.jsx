@@ -4,6 +4,7 @@ import Container from 'shared/ui/container/Container';
 import {useTranslation} from 'react-i18next';
 import Loader from 'shared/ui/loader/Loader';
 import PortfolioCard from '../PortfolioCard/ui/PortfolioCard';
+import s from '../PortfolioCard/ui/PortfolioCard.module.scss';
 import 'shared/config/i18n/i18next';
 
 const Portfolio = () => {
@@ -36,8 +37,8 @@ const Portfolio = () => {
 					}}>
 					<Typography
 						variant="h2"
+						className={s.title}
 						sx={{
-							fontSize: '48px',
 							textAlign: 'center',
 							color: '#36b393',
 							fontWeight: 700,
