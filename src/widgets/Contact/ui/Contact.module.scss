@@ -10,6 +10,10 @@
 	text-transform: uppercase;
 	font-size: 48px;
 	margin-bottom: 60px;
+
+	@media screen and (max-width: 767px) {
+		font-size: 32px;
+	}
 }
 
 .items {
@@ -68,6 +72,10 @@
 					width: 20px;
 					height: 20px;
 					transition: all $transition;
+
+					&.phone {
+						stroke: $black;
+					}
 				}
 
 				span {
@@ -82,6 +90,7 @@
 
 				.icon {
 					fill: $primary-text-color;
+					stroke: $primary-text-color !important;
 				}
 			}
 		}

@@ -17,7 +17,7 @@ const AboutMe = () => {
 			<SplideComponent />
 			<Container>
 				<div className={s.wrapper}>
-					<h1 className={s.title}>{t('about.title')}</h1>
+					<h1 className={s.title}>{t('About me')}</h1>
 					<div className={s.content}>
 						<div className={s.about} data-aos="fade-right">
 							<h2 className={s.subtitle}>

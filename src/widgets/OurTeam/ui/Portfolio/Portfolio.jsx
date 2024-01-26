@@ -44,7 +44,7 @@ const Portfolio = () => {
 							marginBottom: '10px',
 							textTransform: 'uppercase',
 						}}>
-						{t('section.products')}
+						{t('Masters')}
 					</Typography>
 					<Typography
 						variant="h4"

@@ -38,8 +38,8 @@ const PortfolioCard = ({el}) => {
 					<Typography
 						gutterBottom
 						sx={{
-							fontSize: '1.2rem',
-							marginBottom: 2,
+							fontSize: '1.4rem',
+							marginBottom: 0.5,
 							fontWeight: 700,
 							textTransform: 'uppercase',
 							color: 'black',
