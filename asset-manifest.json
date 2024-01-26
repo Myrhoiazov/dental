@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dental/static/css/main.1b803c1e.css",
+    "main.css": "/dental/static/css/main.f6e6f686.css",
     "main.js": "/dental/static/js/main.a7033e26.js",
     "static/css/601.d0330ee2.chunk.css": "/dental/static/css/601.d0330ee2.chunk.css",
     "static/js/601.dd9b5e08.chunk.js": "/dental/static/js/601.dd9b5e08.chunk.js",
@@ -28,7 +28,7 @@
     "static/media/email.svg": "/dental/static/media/email.11d76b482ab3cb957460e373b3f3cd5d.svg",
     "static/media/getFetch.cjs": "/dental/static/media/getFetch.40f37ddea2378391108f.cjs",
     "static/media/facebook.svg": "/dental/static/media/facebook.0e636a34bcb27ffdf4a853545103a9f9.svg",
-    "main.1b803c1e.css.map": "/dental/static/css/main.1b803c1e.css.map",
+    "main.f6e6f686.css.map": "/dental/static/css/main.f6e6f686.css.map",
     "main.a7033e26.js.map": "/dental/static/js/main.a7033e26.js.map",
     "601.d0330ee2.chunk.css.map": "/dental/static/css/601.d0330ee2.chunk.css.map",
     "601.dd9b5e08.chunk.js.map": "/dental/static/js/601.dd9b5e08.chunk.js.map",
@@ -40,7 +40,7 @@
     "698.30b529a4.chunk.js.map": "/dental/static/js/698.30b529a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b803c1e.css",
+    "static/css/main.f6e6f686.css",
     "static/js/main.a7033e26.js"
   ]
 }
