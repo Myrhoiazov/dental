@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dental/static/css/main.51440ea5.css",
-    "main.js": "/dental/static/js/main.a4a56cfc.js",
-    "static/css/601.6023de1f.chunk.css": "/dental/static/css/601.6023de1f.chunk.css",
+    "main.css": "/dental/static/css/main.1b803c1e.css",
+    "main.js": "/dental/static/js/main.d73da1a1.js",
+    "static/css/601.d0330ee2.chunk.css": "/dental/static/css/601.d0330ee2.chunk.css",
     "static/js/601.dd9b5e08.chunk.js": "/dental/static/js/601.dd9b5e08.chunk.js",
     "static/css/197.02c50417.chunk.css": "/dental/static/css/197.02c50417.chunk.css",
     "static/js/197.fd3cf969.chunk.js": "/dental/static/js/197.fd3cf969.chunk.js",
     "static/css/112.fc15da98.chunk.css": "/dental/static/css/112.fc15da98.chunk.css",
     "static/js/112.1d5f3377.chunk.js": "/dental/static/js/112.1d5f3377.chunk.js",
-    "static/css/698.9729b35d.chunk.css": "/dental/static/css/698.9729b35d.chunk.css",
-    "static/js/698.6932e21a.chunk.js": "/dental/static/js/698.6932e21a.chunk.js",
+    "static/css/698.81c27852.chunk.css": "/dental/static/css/698.81c27852.chunk.css",
+    "static/js/698.fef51874.chunk.js": "/dental/static/js/698.fef51874.chunk.js",
     "static/media/innovation-promo.mp4": "/dental/static/media/innovation-promo.6b1eed461c99f1f0610e.mp4",
     "static/media/marinaBg.png": "/dental/static/media/marinaBg.24d3d944ac7493e3a505.png",
     "static/media/propositionBg_.jpeg": "/dental/static/media/propositionBg_.8805a975c1dedea1bd60.jpeg",
@@ -24,23 +24,23 @@
     "static/media/messanger.svg": "/dental/static/media/messanger.53bd449e9eb8e627eacc97390daebfdb.svg",
     "static/media/instagram.svg": "/dental/static/media/instagram.d6a6364c44de1059c98a7c203dd69471.svg",
     "static/media/location.svg": "/dental/static/media/location.f1510183f6d83671f8a0881326d60f2d.svg",
-    "static/media/phone.svg": "/dental/static/media/phone.2def5c8ea817bf3b02047858017164e6.svg",
+    "static/media/phone.svg": "/dental/static/media/phone.b44d2bb53666da6ee0fd459458924efa.svg",
     "static/media/email.svg": "/dental/static/media/email.11d76b482ab3cb957460e373b3f3cd5d.svg",
     "static/media/getFetch.cjs": "/dental/static/media/getFetch.40f37ddea2378391108f.cjs",
     "static/media/facebook.svg": "/dental/static/media/facebook.0e636a34bcb27ffdf4a853545103a9f9.svg",
-    "main.51440ea5.css.map": "/dental/static/css/main.51440ea5.css.map",
-    "main.a4a56cfc.js.map": "/dental/static/js/main.a4a56cfc.js.map",
-    "601.6023de1f.chunk.css.map": "/dental/static/css/601.6023de1f.chunk.css.map",
+    "main.1b803c1e.css.map": "/dental/static/css/main.1b803c1e.css.map",
+    "main.d73da1a1.js.map": "/dental/static/js/main.d73da1a1.js.map",
+    "601.d0330ee2.chunk.css.map": "/dental/static/css/601.d0330ee2.chunk.css.map",
     "601.dd9b5e08.chunk.js.map": "/dental/static/js/601.dd9b5e08.chunk.js.map",
     "197.02c50417.chunk.css.map": "/dental/static/css/197.02c50417.chunk.css.map",
     "197.fd3cf969.chunk.js.map": "/dental/static/js/197.fd3cf969.chunk.js.map",
     "112.fc15da98.chunk.css.map": "/dental/static/css/112.fc15da98.chunk.css.map",
     "112.1d5f3377.chunk.js.map": "/dental/static/js/112.1d5f3377.chunk.js.map",
-    "698.9729b35d.chunk.css.map": "/dental/static/css/698.9729b35d.chunk.css.map",
-    "698.6932e21a.chunk.js.map": "/dental/static/js/698.6932e21a.chunk.js.map"
+    "698.81c27852.chunk.css.map": "/dental/static/css/698.81c27852.chunk.css.map",
+    "698.fef51874.chunk.js.map": "/dental/static/js/698.fef51874.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51440ea5.css",
-    "static/js/main.a4a56cfc.js"
+    "static/css/main.1b803c1e.css",
+    "static/js/main.d73da1a1.js"
   ]
 }
