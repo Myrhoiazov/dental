@@ -1,7 +1,7 @@
-import { useState, memo, Suspense, useEffect } from 'react';
-import { Link, Outlet } from 'react-router-dom';
-import { useMediaQuery } from 'react-responsive';
-import { useTranslation } from 'react-i18next';
+import {useState, memo, Suspense, useEffect} from 'react';
+import {Link, Outlet} from 'react-router-dom';
+import {useMediaQuery} from 'react-responsive';
+import {useTranslation} from 'react-i18next';
 import MenuIcon from '@mui/icons-material/Menu';
 import CloseIcon from '@mui/icons-material/Close';
 import headerMenu from './headermenu';
@@ -17,9 +17,9 @@ import s from './Layout.module.scss';
 import TopBanner from 'widgets/TopBanner/ui/TopBanner/TopBanner';
 
 const Layout = () => {
-	const { t } = useTranslation();
-	const isDesktop = useMediaQuery({ query: '(min-width: 1280px)' });
-	const isShowBurgerMenu = useMediaQuery({ query: '(max-width: 1279px)' });
+	const {t} = useTranslation();
+	const isDesktop = useMediaQuery({query: '(min-width: 1280px)'});
+	const isShowBurgerMenu = useMediaQuery({query: '(max-width: 1279px)'});
 	const [isShowMenu, setIsShowMenu] = useState(false);
 	const [isActive, setIsActive] = useState('');
 
@@ -53,7 +53,7 @@ const Layout = () => {
 	}, [isShowMenu]);
 
 	return (
-		<>
+		<div className={s.body}>
 			<TopBanner />
 			<div className={s.flexWrapper}>
 				<header className={s.header} id="home">
@@ -67,8 +67,7 @@ const Layout = () => {
 									<button
 										type="button"
 										className={s.btn_open}
-										onClick={onHandleShow}
-									>
+										onClick={onHandleShow}>
 										<MenuIcon
 											color="black"
 											fontSize="large"
@@ -76,7 +75,7 @@ const Layout = () => {
 									</button>
 								)}
 								{isDesktop &&
-									headerMenu.map(({ name, to }) => {
+									headerMenu.map(({name, to}) => {
 										return (
 											<Link
 												key={name}
@@ -86,8 +85,11 @@ const Layout = () => {
 														? `${s.item} ${s.active}`
 														: `${s.item}`
 												}
-												onClick={() => linkTo(to)}
-											>
+												onClick={() => {
+													return to !== '/'
+														? linkTo(to)
+														: null;
+												}}>
 												{t(name)}
 											</Link>
 										);
@@ -101,21 +103,18 @@ const Layout = () => {
 										isShowMenu
 											? `${s.nav_mobile} ${s.showMob}`
 											: s.nav_mobile
-									}
-								>
+									}>
 									<div
 										className={
 											isShowMenu
 												? `${s.nav_mobile_wrapper} ${s.show}`
 												: s.nav_mobile_wrapper
-										}
-									>
+										}>
 										{
 											<button
 												type="button"
 												className={s.btn_close}
-												onClick={onHandleShow}
-											>
+												onClick={onHandleShow}>
 												<CloseIcon
 													color="inherit"
 													fontSize="large"
@@ -126,17 +125,15 @@ const Layout = () => {
 											style={{
 												marginBottom: 40,
 												paddingTop: 20,
-											}}
-										>
+											}}>
 											<ToggleLang />
 										</div>
 
-										{headerMenu.map(({ name, to }) => {
+										{headerMenu.map(({name, to}) => {
 											return (
 												<div
 													key={name}
-													className={s.link_items}
-												>
+													className={s.link_items}>
 													<Link
 														to={to}
 														end
@@ -145,17 +142,19 @@ const Layout = () => {
 																? `${s.item} ${s.active}`
 																: `${s.item}`
 														}
-														onClick={() =>
-															mobileShow(to)
-														}
-													>
+														onClick={() => {
+															return to !== '/'
+																? mobileShow(to)
+																: null;
+														}}>
 														{t(name)}
 													</Link>
 
 													<Link
 														to="/"
-														className={s.mobileLogo}
-													>
+														className={
+															s.mobileLogo
+														}>
 														<img
 															src={logo}
 															className={s.logo}
@@ -178,7 +177,7 @@ const Layout = () => {
 			<Contact />
 			<Footer />
 			<ScrollUp />
-		</>
+		</div>
 	);
 };
 

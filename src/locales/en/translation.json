@@ -646,11 +646,11 @@
 			"img": "Marina_Lalakina.jpg"
 		},
 		{
-			"id": "2",
-			"title": "Weronika Gargała",
-			"subtext": "Asystentka stomatologiczna",
+			"id": "8",
+			"title": "Oleksiy Volkov",
+			"subtext": "Dental specialist",
 			"text": "",
-			"img": "1.jpg"
+			"img": "3.jpg"
 		},
 		{
 			"id": "3",
@@ -662,9 +662,30 @@
 		{
 			"id": "4",
 			"title": "Ivanna",
-			"subtext": "Masażysta",
+			"subtext": "Masseur",
 			"text": "",
 			"img": "4.jpg"
+		},
+		{
+			"id": "7",
+			"title": "Zuzanna",
+			"subtext": "Dental assistant",
+			"text": "",
+			"img": "7.jpg"
+		},
+		{
+			"id": "6",
+			"title": "Agnieszka",
+			"subtext": "Dental assistant",
+			"text": "",
+			"img": "6.jpg"
+		},
+		{
+			"id": "2",
+			"title": "Weronika Gargała",
+			"subtext": "Dental assistant",
+			"text": "",
+			"img": "1.jpg"
 		},
 		{
 			"id": "5",
@@ -674,25 +695,11 @@
 			"img": "5.jpg"
 		},
 		{
-			"id": "6",
-			"title": "Agnieszka",
-			"subtext": "Asystentka stomatologiczna",
+			"id": "9",
+			"title": "Alexandra",
+			"subtext": "Receptionist",
 			"text": "",
-			"img": "6.jpg"
-		},
-		{
-			"id": "7",
-			"title": "Zuzanna",
-			"subtext": "Asystentka stomatologiczna",
-			"text": "",
-			"img": "7.jpg"
-		},
-		{
-			"id": "8",
-			"title": "Oleksiy Volkov",
-			"subtext": "Dental specialist",
-			"text": "",
-			"img": "3.jpg"
+			"img": "9.jpg"
 		}
 	],
 	"get": [

@@ -1,5 +1,6 @@
 import {useRef} from 'react';
 import s from './Accordion.module.scss';
+import {ReactComponent as Arrow} from 'shared/assets/icon/arrow.svg';
 
 const AccordionItem = ({question, service, isOpen, onClick}) => {
 	const contentHeight = useRef();
@@ -9,9 +10,7 @@ const AccordionItem = ({question, service, isOpen, onClick}) => {
 				className={`${s.question_container} ${isOpen ? s.active : ''}`}
 				onClick={onClick}>
 				<p className={s.question_content}>{question}</p>
-				{/* <RiArrowDropDownLine
-					className={`arrow ${isOpen ? 'active' : ''}`}
-				/> */}
+				<Arrow className={`${s.arrow} ${isOpen ? s.active : ''}`} />
 			</button>
 
 			<ul

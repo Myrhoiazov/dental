@@ -3,8 +3,8 @@
 	"About me": "O nas",
 	"Courses": "Usługi",
 	"Prices": "Ceny",
-	"Masters": "Mistrzowie",
-	"Contact": "Łączność",
+	"Masters": "Nasz zespół",
+	"Contact": "Kontakt",
 	"hero": {
 		"hello": "Witamy w gabinetach stomatologicznych. Naszym głównym celem jest utrzymanie zdrowych zębów i dziąseł. Dużo uwagi poświęciliśmy tworzeniu",
 		"hello-accent": "stylowe, zaawansowane technologicznie, a jednocześnie wygodne środowisko dla wszystkich naszych pacjentów.",
@@ -628,8 +628,8 @@
 		"text_3": "Поширення та продаж курсів придбанних на цьому майданчику заборонено."
 	},
 	"contacts": {
-		"title": "Łączność",
-		"block_1": "Potrzebuję pomocy?",
+		"title": "Kontakt",
+		"block_1": "Potrzebujesz pomocy?",
 		"block_2": "Linki społecznościowe",
 		"block_3": "Угода користувача:",
 		"payment": "Методи cплати:"
@@ -646,11 +646,11 @@
 			"img": "Marina_Lalakina.jpg"
 		},
 		{
-			"id": "2",
-			"title": "Weronika Gargała",
-			"subtext": "Asystentka stomatologiczna",
+			"id": "8",
+			"title": "Oleksiy Volkov",
+			"subtext": "Specjalista stomatolog",
 			"text": "",
-			"img": "1.jpg"
+			"img": "3.jpg"
 		},
 		{
 			"id": "3",
@@ -667,11 +667,11 @@
 			"img": "4.jpg"
 		},
 		{
-			"id": "5",
-			"title": "Edyta",
-			"subtext": "Administration",
+			"id": "7",
+			"title": "Zuzanna",
+			"subtext": "Asystentka stomatologiczna",
 			"text": "",
-			"img": "5.jpg"
+			"img": "7.jpg"
 		},
 		{
 			"id": "6",
@@ -681,18 +681,25 @@
 			"img": "6.jpg"
 		},
 		{
-			"id": "7",
-			"title": "Zuzanna",
+			"id": "2",
+			"title": "Weronika Gargała",
 			"subtext": "Asystentka stomatologiczna",
 			"text": "",
-			"img": "7.jpg"
+			"img": "1.jpg"
 		},
 		{
-			"id": "8",
-			"title": "Oleksiy Volkov",
-			"subtext": "Specjalista stomatolog",
+			"id": "5",
+			"title": "Edyta",
+			"subtext": "Administration",
 			"text": "",
-			"img": "3.jpg"
+			"img": "5.jpg"
+		},
+		{
+			"id": "9",
+			"title": "Aleksandra",
+			"subtext": "Pracownik recepcji",
+			"text": "",
+			"img": "9.jpg"
 		}
 	],
 	"get": [

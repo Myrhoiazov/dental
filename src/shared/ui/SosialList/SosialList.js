@@ -8,7 +8,7 @@ export const socialList = [
 		Icon: <Insta />,
 	},
 	{
-		link: 'https://instagram.com/idc_innovationdentalclinik',
+		link: 'tel:+48669380380"',
 		Icon: <Messaage />,
 	},
 	{

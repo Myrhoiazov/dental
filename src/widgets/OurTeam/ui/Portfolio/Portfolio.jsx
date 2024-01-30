@@ -1,5 +1,5 @@
 import {useEffect, useState, memo, useCallback} from 'react';
-import {Box, Typography} from '@mui/material';
+import {Box} from '@mui/material';
 import Container from 'shared/ui/container/Container';
 import {useTranslation} from 'react-i18next';
 import Loader from 'shared/ui/loader/Loader';
@@ -35,29 +35,7 @@ const Portfolio = () => {
 						justifyContent: 'center',
 						padding: '50px 0',
 					}}>
-					<Typography
-						variant="h2"
-						className={s.title}
-						sx={{
-							textAlign: 'center',
-							color: '#36b393',
-							fontWeight: 700,
-							marginBottom: '10px',
-							textTransform: 'uppercase',
-						}}>
-						{t('Masters')}
-					</Typography>
-					<Typography
-						variant="h4"
-						sx={{
-							fontSize: '18px',
-							textAlign: 'center',
-							fontWeight: 300,
-							marginBottom: '60px',
-							maxWidth: '600px',
-						}}>
-						{t('section.subtext')}
-					</Typography>
+					<h2 className={s.title}>{t('Masters')}</h2>
 					<Box
 						sx={{
 							display: 'flex',
