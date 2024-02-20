@@ -6,6 +6,8 @@ import AfterCourse from 'widgets/AfterCourse';
 import Hero from 'widgets/Hero';
 import 'aos/dist/aos.css';
 import Price from 'widgets/Price';
+import Proposition from 'widgets/Proposition';
+import ImageGallery from 'widgets/ImageGallery';
 
 const Home = () => {
 	const initEffect = useCallback(() => {
@@ -28,6 +30,8 @@ const Home = () => {
 			<OurTeam />
 			<AfterCourse />
 			<Price />
+			<ImageGallery />
+			<Proposition />
 		</>
 	);
 };

@@ -1,7 +1,11 @@
 import React, {useCallback, useEffect, useState, memo} from 'react';
-import Container from 'shared/ui/container/Container';
 import {useTranslation} from 'react-i18next';
+import {Splide, SplideSlide} from '@splidejs/react-splide';
+import Container from 'shared/ui/container/Container';
 import Loader from 'shared/ui/loader/Loader';
+
+import '@splidejs/react-splide/css';
+
 import s from './AfterCourse.module.scss';
 
 function AfterCourse() {
@@ -23,18 +27,37 @@ function AfterCourse() {
 	}
 
 	return (
-		<section id="after-course" className={s.section}>
+		<section id="services" className={s.section}>
 			<Container>
 				<h2 className={s.title}>{t('get_title')}</h2>
-				<ul className={s.list}>
+				<Splide
+					className={s.splide}
+					options={{
+						type: 'slide',
+						perPage: 3,
+						pagination: false,
+						arrows: false,
+						gap: '1rem',
+						focus: 'center',
+						breakpoints: {
+							640: {
+								perPage: 1,
+							},
+						},
+					}}>
 					{proposition?.map((item) => {
 						return (
-							<li key={item.proposition} className={s.item}>
-								{item.proposition}
-							</li>
+							<SplideSlide
+								key={item.proposition}
+								className={s.splideSlide}>
+								<p className={s.splideTest}>
+									{item.proposition}
+								</p>
+								<p className={s.text}>{item.text}</p>
+							</SplideSlide>
 						);
 					})}
-				</ul>
+				</Splide>
 			</Container>
 		</section>
 	);

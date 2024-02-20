@@ -10,7 +10,7 @@
 	border-radius: 60px;
 
 	color: black;
-	border: 1px solid $primary-text-color;
+	border: 1px solid $primary-color;
 	background-color: transparent;
 	margin: 20px 0;
 	min-width: 200px;
@@ -23,7 +23,7 @@
 
 	&:hover {
 		color: $white;
-		background-color: $primary-text-color;
+		background-color: $primary-color;
 	}
 
 	&.buy_accent {
@@ -31,12 +31,12 @@
 		font-size: 12px;
 		margin-bottom: 0;
 		min-width: 50px !important;
-		color: $primary-text-color;
+		color: $primary-color;
 		background-color: $secondary-color;
 
 		&:hover {
 			color: $white;
-			background-color: $primary-text-color;
+			background-color: $primary-color;
 		}
 	}
 }
@@ -262,7 +262,7 @@
 	margin-bottom: 15px;
 	padding: 5px 10px;
 	box-shadow: $active-shadow;
-	background-color: $primary-text-color;
+	background-color: $primary-color;
 
 	&.online {
 		background-color: $accent-online;

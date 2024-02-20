@@ -5,9 +5,10 @@
 }
 
 .img_thumb {
-	max-height: 385px;
+	max-height: 315px;
 	width: 100%;
 	overflow: hidden;
+	border-radius: 10px;
 
 	img {
 		width: 100%;
@@ -19,12 +20,22 @@
 }
 
 .title {
+	text-align: center;
 	font-size: 48px;
-	margin-bottom: 60px;
+	margin-bottom: 10px;
 	text-transform: uppercase;
 	color: $blue;
 
 	@media screen and (max-width: 767px) {
 		font-size: 32px;
 	}
+}
+
+
+.subtitle {
+	color: #4c4c4e;
+	max-width: 600px;
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 60px;
 }

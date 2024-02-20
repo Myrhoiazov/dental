@@ -7,7 +7,7 @@
 	"Contact": "Contact",
 	"hero": {
 		"hello": "We kindly ask you to the dental clinics. Our goal is to keep your teeth healthy. We have given a lot of respect to him to create",
-		"hello-accent": "a more stylish, high-tech, yet more comfortable solution for all our patients.",
+		"hello-accent": "a more stylish, high-tech, yet more comfortable solution for all our patients. We are a dental clinic with our own digital prosthetic laboratory. The crown can be made in 3 days.",
 		"name": "Kindly welcome to Innovation Dental Clinic",
 		"text": "Antonia Viter"
 	},
@@ -637,93 +637,104 @@
 			}
 		]
 	},
-	"courses": [
-		{
-			"id": "1",
-			"title": "Dr. Maryna Lalakina",
-			"subtext": "Chirurg Implantolog Protetyk",
-			"text": "",
-			"img": "Marina_Lalakina.jpg"
-		},
-		{
-			"id": "8",
-			"title": "Oleksiy Volkov",
-			"subtext": "Dental specialist",
-			"text": "",
-			"img": "3.jpg"
-		},
-		{
-			"id": "3",
-			"title": "Anna Ben",
-			"subtext": "Kosmetolog",
-			"text": "",
-			"img": "2.jpg"
-		},
-		{
-			"id": "4",
-			"title": "Ivanna",
-			"subtext": "Masseur",
-			"text": "",
-			"img": "4.jpg"
-		},
-		{
-			"id": "7",
-			"title": "Zuzanna",
-			"subtext": "Dental assistant",
-			"text": "",
-			"img": "7.jpg"
-		},
-		{
-			"id": "6",
-			"title": "Agnieszka",
-			"subtext": "Dental assistant",
-			"text": "",
-			"img": "6.jpg"
-		},
-		{
-			"id": "2",
-			"title": "Weronika Gargała",
-			"subtext": "Dental assistant",
-			"text": "",
-			"img": "1.jpg"
-		},
-		{
-			"id": "5",
-			"title": "Edyta",
-			"subtext": "Administration",
-			"text": "",
-			"img": "5.jpg"
-		},
-		{
-			"id": "9",
-			"title": "Alexandra",
-			"subtext": "Receptionist",
-			"text": "",
-			"img": "9.jpg"
-		}
-	],
+	"masters": {
+		"title": "Masters",
+		"subtitle": "Our doctors have high qualified skills and are guaranteed to help you recover from your disease.",
+		"list": [
+			{
+				"id": "5",
+				"title": "Edyta Depa",
+				"subtext": "Director",
+				"text": "",
+				"img": "5.jpg"
+			},
+			{
+				"id": "8",
+				"title": "Oleksiy Volkov",
+				"subtext": "Dental specialist",
+				"text": "",
+				"img": "3.jpg"
+			},
+			{
+				"id": "1",
+				"title": "Dr. Maryna Lalakina",
+				"subtext": "Chirurg Implantolog Protetyk",
+				"text": "",
+				"img": "Marina_Lalakina.jpg"
+			},
+			{
+				"id": "3",
+				"title": "Anna Ben",
+				"subtext": "Kosmetolog",
+				"text": "",
+				"img": "2.jpg"
+			},
+			{
+				"id": "7",
+				"title": "Zuzanna",
+				"subtext": "Dental assistant",
+				"text": "",
+				"img": "7.jpg"
+			},
+			{
+				"id": "6",
+				"title": "Agnieszka",
+				"subtext": "Dental assistant",
+				"text": "",
+				"img": "6.jpg"
+			},
+			{
+				"id": "2",
+				"title": "Weronika Gargała",
+				"subtext": "Dental assistant",
+				"text": "",
+				"img": "1.jpg"
+			},
+			{
+				"id": "9",
+				"title": "Alexandra",
+				"subtext": "Receptionist",
+				"text": "",
+				"img": "9.jpg"
+			}
+		]
+	},
 	"get": [
 		{
-			"proposition": "Stomatologia zachowawcza"
+			"proposition": "Conservative dentistry",
+			"text": "Conservative Dentistry preserves natural teeth using minimally invasive techniques."
 		},
 		{
-			"proposition": "Protetyka"
+			"proposition": "Protetyka",
+			"text": "Prosthodontics restores missing teeth with prosthetic devices, aiming to improve function and aesthetics."
 		},
 		{
-			"proposition": "Chirurgia"
+			"proposition": "Chirurgia",
+			"text": "Dental Surgery includes various procedures to address dental issues and improve oral health."
 		},
 		{
-			"proposition": "Implanty"
+			"proposition": "Implanty",
+			"text": "Implants - innovative dentistry restoring missing teeth, ensuring comfort and smile aesthetics."
 		},
 		{
-			"proposition": "Ortodoncja"
+			"proposition": "Ortodoncja",
+			"text": "Orthodontics corrects misaligned teeth and jaws to enhance dental aesthetics and function"
 		},
 		{
-			"proposition": "Endodoncja"
+			"proposition": "Endodoncja",
+			"text": "Endodontics treats dental pulp and root canal issues to save natural teeth."
 		},
 		{
-			"proposition": "RTG"
+			"proposition": "RTG",
+			"text": "Dental Radiography diagnoses dental conditions and provides insights into oral health."
 		}
 	],
-	"get_title": "Our services"
+	"get_title": "Our services",
+	"proposition": {
+		"title": "It’s time change your life today"
+	},
+	"image": {
+		"title": "Photo gallery of our kinika",
+		"subtitle": ""
+	}
 }

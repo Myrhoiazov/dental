@@ -9,7 +9,7 @@
 	margin-bottom: 20px;
 
 
-	border: 1px solid rgba($primary-text-color, 0.5);
+	border: 1px solid rgba($primary-color, 0.5);
 	border-radius: 10px;
 
 	@media screen and (min-width: 776px) {
@@ -85,7 +85,7 @@
 		display: block;
 
 		color: black;
-		border: 1px solid $primary-text-color;
+		border: 1px solid $primary-color;
 		background-color: transparent;
 		margin: 20px 0;
 		min-width: 200px;
@@ -94,7 +94,7 @@
 
 		&:hover {
 			color: $white;
-			background-color: $primary-text-color;
+			background-color: $primary-color;
 		}
 
 	}

@@ -12,7 +12,7 @@ const Portfolio = () => {
 	const {t, i18n, ready} = useTranslation();
 
 	const projectFnc = useCallback(() => {
-		let res = t('courses', {returnObjects: true});
+		let res = t('masters.list', {returnObjects: true});
 		setCourses(res);
 	}, [t]);
 
@@ -35,7 +35,8 @@ const Portfolio = () => {
 						justifyContent: 'center',
 						padding: '50px 0',
 					}}>
-					<h2 className={s.title}>{t('Masters')}</h2>
+					<h2 className={s.title}>{t('masters.title')}</h2>
+					<p className={s.subtitle}>{t('masters.subtitle')}</p>
 					<Box
 						sx={{
 							display: 'flex',

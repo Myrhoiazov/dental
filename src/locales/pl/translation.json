@@ -7,7 +7,7 @@
 	"Contact": "Kontakt",
 	"hero": {
 		"hello": "Witamy w gabinetach stomatologicznych. Naszym głównym celem jest utrzymanie zdrowych zębów i dziąseł. Dużo uwagi poświęciliśmy tworzeniu",
-		"hello-accent": "stylowe, zaawansowane technologicznie, a jednocześnie wygodne środowisko dla wszystkich naszych pacjentów.",
+		"hello-accent": "stylowe, zaawansowane technologicznie, a jednocześnie wygodne środowisko dla wszystkich naszych pacjentów. Jesteśmy kliniką stomatologiczną posiadającą własne cyfrowe laboratorium protetyczne. Koronę można wykonać w 3 dni.",
 		"name": "Witamy w Innovation Dental Clinic",
 		"text": "Antonia Viter"
 	},
@@ -637,93 +637,104 @@
 	"shedule": {
 		"text": "Pn.-Sb. 9:00 - 20:00"
 	},
-	"courses": [
-		{
-			"id": "1",
-			"title": "Dr. Maryna Lalakina",
-			"subtext": "Chirurg Implantolog Protetyk",
-			"text": "",
-			"img": "Marina_Lalakina.jpg"
-		},
-		{
-			"id": "8",
-			"title": "Oleksiy Volkov",
-			"subtext": "Specjalista stomatolog",
-			"text": "",
-			"img": "3.jpg"
-		},
-		{
-			"id": "3",
-			"title": "Anna Ben",
-			"subtext": "Kosmetolog",
-			"text": "",
-			"img": "2.jpg"
-		},
-		{
-			"id": "4",
-			"title": "Ivanna",
-			"subtext": "Masażysta",
-			"text": "",
-			"img": "4.jpg"
-		},
-		{
-			"id": "7",
-			"title": "Zuzanna",
-			"subtext": "Asystentka stomatologiczna",
-			"text": "",
-			"img": "7.jpg"
-		},
-		{
-			"id": "6",
-			"title": "Agnieszka",
-			"subtext": "Asystentka stomatologiczna",
-			"text": "",
-			"img": "6.jpg"
-		},
-		{
-			"id": "2",
-			"title": "Weronika Gargała",
-			"subtext": "Asystentka stomatologiczna",
-			"text": "",
-			"img": "1.jpg"
-		},
-		{
-			"id": "5",
-			"title": "Edyta",
-			"subtext": "Administration",
-			"text": "",
-			"img": "5.jpg"
-		},
-		{
-			"id": "9",
-			"title": "Aleksandra",
-			"subtext": "Pracownik recepcji",
-			"text": "",
-			"img": "9.jpg"
-		}
-	],
+	"masters": {
+		"title": "Nasz zespół",
+		"subtitle": "Nasi lekarze posiadają wysokie kwalifikacje i gwarantują, że pomogą Ci wyzdrowieć z choroby.",
+		"list": [
+			{
+				"id": "5",
+				"title": "Edyta Depa",
+				"subtext": "Dyrektor",
+				"text": "",
+				"img": "5.jpg"
+			},
+			{
+				"id": "8",
+				"title": "Oleksiy Volkov",
+				"subtext": "Specjalista stomatolog",
+				"text": "",
+				"img": "3.jpg"
+			},
+			{
+				"id": "1",
+				"title": "Dr. Maryna Lalakina",
+				"subtext": "Chirurg Implantolog Protetyk",
+				"text": "",
+				"img": "Marina_Lalakina.jpg"
+			},
+			{
+				"id": "3",
+				"title": "Anna Ben",
+				"subtext": "Kosmetolog",
+				"text": "",
+				"img": "2.jpg"
+			},
+			{
+				"id": "7",
+				"title": "Zuzanna",
+				"subtext": "Asystentka stomatologiczna",
+				"text": "",
+				"img": "7.jpg"
+			},
+			{
+				"id": "6",
+				"title": "Agnieszka",
+				"subtext": "Asystentka stomatologiczna",
+				"text": "",
+				"img": "6.jpg"
+			},
+			{
+				"id": "2",
+				"title": "Weronika Gargała",
+				"subtext": "Asystentka stomatologiczna",
+				"text": "",
+				"img": "1.jpg"
+			},
+			{
+				"id": "9",
+				"title": "Aleksandra",
+				"subtext": "Pracownik recepcji",
+				"text": "",
+				"img": "9.jpg"
+			}
+		]
+	},
 	"get": [
 		{
-			"proposition": "Stomatologia zachowawcza"
+			"proposition": "Stomatologia zachowawcza",
+			"text": "Stomatologia zachowawcza zachowuje naturalne zęby, stosując minimalnie inwazyjne techniki."
 		},
 		{
-			"proposition": "Protetyka"
+			"proposition": "Protetyka",
+			"text": "Protetyka odbudowuje brakujące zęby za pomocą urządzeń protetycznych, poprawiając funkcję i estetykę."
 		},
 		{
-			"proposition": "Chirurgia"
+			"proposition": "Chirurgia",
+			"text": "Chirurgia stomatologiczna obejmuje różnorodne zabiegi w celu rozwiązania problemów zębowych i poprawy zdrowia jamy ustnej."
 		},
 		{
-			"proposition": "Implanty"
+			"proposition": "Implanty",
+			"text": "Implanty - innowacyjna stomatologia przywracająca brakujące zęby, zapewniająca komfort i estetykę uśmiechu."
 		},
 		{
-			"proposition": "Ortodoncja"
+			"proposition": "Ortodoncja",
+			"text": "Ortodoncja koryguje nieprawidłowo ustawione zęby i szczęki, poprawiając estetykę i funkcję zębów."
 		},
 		{
-			"proposition": "Endodoncja"
+			"proposition": "Endodoncja",
+			"text": "Endodoncja leczy miazgę zębową i problemy z kanałem korzeniowym w celu zachowania naturalnych zębów."
 		},
 		{
-			"proposition": "RTG"
+			"proposition": "RTG",
+			"text": "RTG stomatologiczne diagnozuje stany zębów i dostarcza informacji na temat zdrowia jamy ustnej."
 		}
 	],
-	"get_title": "Nasze Usługi"
+	"get_title": "Nasze Usługi",
+	"proposition": {
+		"title": "Już dziś czas zmienić swoje życie"
+	},
+	"image": {
+		"title": "Galeria zdjęć naszej kiniki",
+		"subtitle": ""
+	}
 }

@@ -12,6 +12,10 @@ const headerMenu = [
 		to: '#masters',
 	},
 	{
+		name: 'Courses',
+		to: '#services',
+	},
+	{
 		name: 'Prices',
 		to: '#price',
 	},

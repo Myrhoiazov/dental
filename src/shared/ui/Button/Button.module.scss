@@ -1,19 +1,19 @@
 @use '../../shared/styles/variables' as *;
 
 .btn {
-  padding: 13px 28px;
-  border: none;
-  border-radius: 60px;
+	padding: 13px 28px;
+	border: none;
+	border-radius: 60px;
 
-  color: var(--primary-text-color);
-  border: 1px solid  $primary-text-color;
-  background-color: transparent;
+	color: var(--primary-text-color);
+	border: 1px solid $primary-color;
+	background-color: transparent;
 
-  transition: all $transition;
+	transition: all $transition;
 
-  &:hover{
-	color: $primary-bg-color;
-	background-color: $primary-text-color;
+	&:hover {
+		color: $primary-bg-color;
+		background-color: $primary-color;
 
-  }
+	}
 }

@@ -85,12 +85,12 @@
 
 			&:hover {
 				a {
-					color: $primary-text-color;
+					color: $primary-color;
 				}
 
 				.icon {
-					fill: $primary-text-color;
-					stroke: $primary-text-color !important;
+					fill: $primary-color;
+					stroke: $primary-color !important;
 				}
 			}
 		}
@@ -142,7 +142,7 @@
 
 		transition: fill 150ms linear;
 
-		fill: $primary-text-color;
+		fill: $primary-color;
 
 		&:first-child {
 			margin: 0;
