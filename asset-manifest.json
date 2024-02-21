@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.34dd3862.css",
-    "main.js": "/static/js/main.1a2e5212.js",
+    "main.js": "/static/js/main.95af4610.js",
     "static/css/896.443d07c0.chunk.css": "/static/css/896.443d07c0.chunk.css",
-    "static/js/896.4468c0ec.chunk.js": "/static/js/896.4468c0ec.chunk.js",
+    "static/js/896.9f9deff8.chunk.js": "/static/js/896.9f9deff8.chunk.js",
     "static/js/585.129dbee0.chunk.js": "/static/js/585.129dbee0.chunk.js",
     "static/media/innovation-promo.mp4": "/static/media/innovation-promo.6b1eed461c99f1f0610e.mp4",
     "static/media/marinaBg.png": "/static/media/marinaBg.d588b16f249abf0a610b.png",
@@ -38,13 +38,13 @@
     "static/media/facebook.svg": "/static/media/facebook.0e636a34bcb27ffdf4a853545103a9f9.svg",
     "static/media/arrow.svg": "/static/media/arrow.85dbc4a014bed218e78e76299033fd6b.svg",
     "main.34dd3862.css.map": "/static/css/main.34dd3862.css.map",
-    "main.1a2e5212.js.map": "/static/js/main.1a2e5212.js.map",
+    "main.95af4610.js.map": "/static/js/main.95af4610.js.map",
     "896.443d07c0.chunk.css.map": "/static/css/896.443d07c0.chunk.css.map",
-    "896.4468c0ec.chunk.js.map": "/static/js/896.4468c0ec.chunk.js.map",
+    "896.9f9deff8.chunk.js.map": "/static/js/896.9f9deff8.chunk.js.map",
     "585.129dbee0.chunk.js.map": "/static/js/585.129dbee0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34dd3862.css",
-    "static/js/main.1a2e5212.js"
+    "static/js/main.95af4610.js"
   ]
 }
