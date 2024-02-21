@@ -643,59 +643,115 @@
 		"list": [
 			{
 				"id": "5",
-				"title": "Edyta Depa",
+				"title": "Kubicz-Depa Edyta",
 				"subtext": "Dyrektor",
 				"text": "",
-				"img": "5.jpg"
+				"img": "Kubicz-Depa_Edyta.jpg"
 			},
 			{
 				"id": "8",
 				"title": "Oleksiy Volkov",
-				"subtext": "Specjalista stomatolog",
+				"subtext": "Periodontolog / Endodonta / Protetyk / Chirurg-Implantolog",
 				"text": "",
-				"img": "3.jpg"
+				"img": "Olek_Volkov.jpg"
 			},
 			{
 				"id": "1",
 				"title": "Dr. Maryna Lalakina",
 				"subtext": "Chirurg Implantolog Protetyk",
 				"text": "",
-				"img": "Marina_Lalakina.jpg"
+				"img": "Maryna_Lalakina.jpg"
+			},
+			{
+				"id": "15",
+				"title": "Szablowska Monika",
+				"subtext": "Estetyka / Pedodont - Specjalizacja",
+				"text": "",
+				"img": "Szablowska_Monika.jpg"
 			},
 			{
 				"id": "3",
 				"title": "Anna Ben",
 				"subtext": "Kosmetolog",
 				"text": "",
-				"img": "2.jpg"
-			},
-			{
-				"id": "7",
-				"title": "Zuzanna",
-				"subtext": "Asystentka stomatologiczna",
-				"text": "",
-				"img": "7.jpg"
-			},
-			{
-				"id": "6",
-				"title": "Agnieszka",
-				"subtext": "Asystentka stomatologiczna",
-				"text": "",
-				"img": "6.jpg"
+				"img": "Anna_Ben.jpg"
 			},
 			{
 				"id": "2",
 				"title": "Weronika Gargała",
-				"subtext": "Asystentka stomatologiczna",
+				"subtext": "Higienistka stomatologiczna",
 				"text": "",
-				"img": "1.jpg"
+				"img": "Gargała_Weronika.jpg"
 			},
 			{
-				"id": "9",
-				"title": "Aleksandra",
-				"subtext": "Pracownik recepcji",
+				"id": "7",
+				"title": "Gniewek Zuzanna",
+				"subtext": "Asystentka stomatologiczna",
 				"text": "",
-				"img": "9.jpg"
+				"img": "Gniewek_Zuzanna.jpg"
+			},
+			{
+				"id": "6",
+				"title": "Maciołek Agnieszka",
+				"subtext": "Asystentka stomatologiczna",
+				"text": "",
+				"img": "Maciołek_Agnieszka.jpg"
+			},
+			{
+				"id": "10",
+				"title": "Pryts Yevheniia",
+				"subtext": "Asystentka stomatologiczna / dental assistant",
+				"text": "",
+				"img": "Pryts_Yevheniia.jpg"
+			},
+			{
+				"id": "11",
+				"title": "Ratyna Elżbieta",
+				"subtext": "Rejestratorka medyczna",
+				"text": "",
+				"img": "Ratyna_Elżbieta.jpg"
+			},
+			{
+				"id": "12",
+				"title": "Trawka Paulina",
+				"subtext": "Asystentka stomatologiczna",
+				"text": "",
+				"img": "Trawka_Paulina.jpg"
+			},
+			{
+				"id": "13",
+				"title": "Naumenko Oleksandra",
+				"subtext": "Recepcyonistka medyczna",
+				"text": "",
+				"img": "Naumenko_Oleksandra.jpg"
+			},
+			{
+				"id": "14",
+				"title": "Kovalchuk Tatiana",
+				"subtext": "Ortodonta",
+				"text": "",
+				"img": "Kovalchuk_Tatiana.jpg"
+			},
+			{
+				"id": "16",
+				"title": "Yurii Panenkov",
+				"subtext": "Technik dentystyczny",
+				"text": "",
+				"img": "Yurii_Panenkov.jpg"
+			},
+			{
+				"id": "17",
+				"title": "Zubets Vladyslav",
+				"subtext": "Technik dentystyczny",
+				"text": "",
+				"img": "Zubets_Vladyslav.jpg"
+			},
+			{
+				"id": "18",
+				"title": "Chernohor Yurii",
+				"subtext": "Technik dentystyczny",
+				"text": "",
+				"img": "Chernohor_Yurii.jpg"
 			}
 		]
 	},

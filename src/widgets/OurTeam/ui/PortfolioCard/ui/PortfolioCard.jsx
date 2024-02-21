@@ -43,7 +43,7 @@ const PortfolioCard = ({el}) => {
 						sx={{
 							textAlign: 'center',
 							fontSize: '1.2rem',
-							marginBottom: 0.5,
+							marginBottom: '1.2rem',
 							fontWeight: 700,
 							textTransform: 'uppercase',
 							color: 'black',
@@ -57,6 +57,8 @@ const PortfolioCard = ({el}) => {
 						color="text.secondary"
 						sx={{
 							textAlign: 'center',
+							minHeight: '45px',
+
 							fontSize: '1rem',
 							flex: 1,
 							fontWeight: 400,

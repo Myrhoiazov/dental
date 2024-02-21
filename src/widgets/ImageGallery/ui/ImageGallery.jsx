@@ -35,7 +35,6 @@ const ImageGallery = ({className}) => {
 					setIsIntersected(true);
 
 					data.forEach((elem, index) => {
-						console.log('elem: ', elem);
 						gsap.from(`[data-id="${elem.id}"]`, 1, {
 							y: '200px',
 							opacity: 0,
