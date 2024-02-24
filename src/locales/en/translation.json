@@ -641,20 +641,20 @@
 		"title": "Masters",
 		"subtitle": "Our doctors have high qualified skills and are guaranteed to help you recover from your disease.",
 		"list": [
-			[
+			
 				{
 					"id": "5",
 					"title": "Kubicz-Depa Edyta",
 					"subtext": "Director",
 					"text": "",
-					"img": "5.jpg"
+					"img": "Kubicz-Depa_Edyta.jpg"
 				},
 				{
 					"id": "8",
 					"title": "Oleksiy Volkov",
 					"subtext": "Periodontist / Endodontist / Prosthodontist / Implant Surgeon",
 					"text": "",
-					"img": "Kubicz-Depa_Edyta.jpg"
+					"img": "Olek_Volkov.jpg"
 				},
 				{
 					"id": "1",
@@ -754,7 +754,7 @@
 					"text": "",
 					"img": "Chernohor_Yurii.jpg"
 				}
-			]
+			
 		]
 	},
 	"get": [
