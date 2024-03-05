@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.4c988e21.css",
-    "main.js": "/static/js/main.9e9eea35.js",
-    "static/css/914.381017c6.chunk.css": "/static/css/914.381017c6.chunk.css",
+    "main.js": "/static/js/main.3e7dff51.js",
+    "static/css/914.71c19221.chunk.css": "/static/css/914.71c19221.chunk.css",
     "static/js/914.32b8ca21.chunk.js": "/static/js/914.32b8ca21.chunk.js",
     "static/js/585.129dbee0.chunk.js": "/static/js/585.129dbee0.chunk.js",
     "static/media/innovation-promo.mp4": "/static/media/innovation-promo.6b1eed461c99f1f0610e.mp4",
@@ -37,13 +37,13 @@
     "static/media/facebook.svg": "/static/media/facebook.0e636a34bcb27ffdf4a853545103a9f9.svg",
     "static/media/arrow.svg": "/static/media/arrow.85dbc4a014bed218e78e76299033fd6b.svg",
     "main.4c988e21.css.map": "/static/css/main.4c988e21.css.map",
-    "main.9e9eea35.js.map": "/static/js/main.9e9eea35.js.map",
-    "914.381017c6.chunk.css.map": "/static/css/914.381017c6.chunk.css.map",
+    "main.3e7dff51.js.map": "/static/js/main.3e7dff51.js.map",
+    "914.71c19221.chunk.css.map": "/static/css/914.71c19221.chunk.css.map",
     "914.32b8ca21.chunk.js.map": "/static/js/914.32b8ca21.chunk.js.map",
     "585.129dbee0.chunk.js.map": "/static/js/585.129dbee0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c988e21.css",
-    "static/js/main.9e9eea35.js"
+    "static/js/main.3e7dff51.js"
   ]
 }
