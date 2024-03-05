@@ -38,7 +38,7 @@ const Contact = () => {
 										<Phone
 											className={`${s.icon} ${s.phone}`}
 										/>
-										+48 17 850 15599
+										+48 178 505 522
 									</a>
 								</li>
 								<li className={s.contactItem}>

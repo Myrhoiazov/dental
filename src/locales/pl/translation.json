@@ -6,8 +6,8 @@
 	"Masters": "Nasz zespół",
 	"Contact": "Kontakt",
 	"hero": {
-		"hello": "Witamy w gabinetach stomatologicznych.",
-		"hello-accent": "Jesteśmy kliniką stomatologiczną posiadającą własne cyfrowe laboratorium protetyczne. Koronę można wykonać w 3 dni.",
+		"hello": "Witamy w naszych gabinetach stomatologicznych, w  których głównym celem jest pomoc w utrzymaniu zdrowego uśmiechu naszego pacjenta. ",
+		"hello-accent": "Nasz zespół specjalistów, pełen pasji i zaangażowania jest gotowy by objąć naszych pacjentów kompleksową opieką medyczną.",
 		"name": "Witamy w Innovation Dental Clinic",
 		"text": "Antonia Viter"
 	},
@@ -15,25 +15,25 @@
 		"buy": "Читати більше..."
 	},
 	"action": {
-		"splide": "Innovation Dental Clinic"
+		"splide": "Wykonanie Korona z cyrkonu zajmuje nam tylko 3 dni!"
 	},
 	"about": {
 		"title": "O nas",
 		"subtitle": "Innovation Dental Clinic",
 		"text1": "Świadczymy pełen zakres usług z zakresu higieny jamy ustnej i zębów. Nasz wysoko wykwalifikowany zespół specjalistów jest gotowy zaoferować Państwu profesjonalną pomoc w następujących obszarach:",
 		"list": {
-			"text_1": "Stomatologia profilaktyczna: regularne wizyty kontrolne, czyszczenie zębów i konsultacje pielęgnacyjne.",
+			"text_1": "Dołożyliśmy wszelkich starań, by  wyposażyć naszą klinikę w najlepszej jakości specjalistyczny sprzęt diagnostyczny oraz usługi pozwalające poczuć spokój oraz komfort pacjenta. Stomatologia profilaktyczna: regularne wizyty kontrolne, czyszczenie zębów i konsultacje pielęgnacyjne.",
 			"text_2": "Leczenie próchnicy i chorób dziąseł: wypełnianie próchnicy, usuwanie osadu nazębnego, leczenie stanów zapalnych.",
 			"text_3": "Stomatologia estetyczna: wybielanie zębów, zakładanie licówek i koron dla idealnego uśmiechu.",
 			"text_4": "Ortodoncja: korekcja zgryzu, montaż aparatu ortodontycznego, przezroczyste nakładki.",
 			"text_5": "Chirurgia: usuwanie zębów mądrości, implantacja zębów, plastyka dziąseł.",
-			"text_6": "Ortopedia: korony (cyrkon, ceramika metalowa), protezy"
+			"text_6": "Protetyka: korony (cyrkon, ceramika metalowa), protezy"
 		},
 		"text2": "нужен текст",
 		"text3": "нужен текст"
 	},
 	"section": {
-		"products": "Nasz zespół",
+		"products": "Poznajcie naszych specjalistów",
 		"subtext": ""
 	},
 	"price": {
@@ -644,7 +644,7 @@
 			"id": "5",
 			"title": "Kubicz-Depa Edyta",
 			"subtext": "Dyrektor",
-			"subtext2": "Spechalizacja",
+			"subtext2": "Specjalizacja",
 			"img": "Kubicz-Depa_Edyta.jpg",
 			"desc": "Uwielbia pracę z ludzmi. Ze stomatologią związana jest juz 15 lat. Pomoc i rozwiazywanie problemów to jej główna misja. Cechuje ją otwartość , życzliwość i optymistyczne podejście do życia."
 		},
@@ -652,32 +652,32 @@
 			{
 				"id": "1",
 				"title": "Dr. Maryna Lalakina",
-				"subtext": "Chirurg Implantolog Protetyk",
-				"subtext2": "Spechalizacja",
+				"subtext": "Chirurg / Implantolog / Protetyk / Gnatolog",
+				"subtext2": "Specjalizacja",
 				"img": "Maryna_Lalakina.jpg",
 				"desc": "Jest chirurgiem implantologiem, protetykiem i gnatologiem. Zajmuje się kompleksowym leczeniem jamy ustnej wraz z ciałem. Stomatologia - to miłosć jej życia. Pracuje już 18 lat - przez ten czas wypracowała swoje indywidywidualne podejście do pracy z pacjentem."
 			},
 			{
 				"id": "8",
-				"title": "Dr. Oleksiy Volkov",
+				"title": "Dr. Olek Volkov",
 				"subtext": "Periodontolog / Endodonta / Protetyk / Chirurg-Implantolog",
-				"subtext2": "Spechalizacja",
+				"subtext2": "Specjalizacja",
 				"img": "Olek_Volkov.jpg",
-				"desc": "Pracuje głównie pod mikroskopem. Ma skuteczne podejście do leczenia pacjentów. 2013 roku skończył studia na Uniwersytecie Medycznym im. M.I. Pirochowa. Po 2 latach stażu podyplomowego dostałem tytuł lekarza-dentysty specjalisty. Od 2015 roku jest członkiem akademii periodontogicznej UAP. 2019-2021 roku studiowałem w Luksemburgu na Uniwersytecie DTMD (Digital Technologies of Science). Po ukończeniu studiów i obronie pracy dostałem tytuł Master of Science (MSc) in Periodontology and Implantology."
+				"desc": "Pracuje głównie pod mikroskopem. 2013 roku skończył studia na Uniwersytecie Medycznym im. M.I. Pirochowa. Po 2 latach stażu podyplomowego dostał tytuł lekarza-dentysty specjalisty. Od 2015 roku jest członkiem akademii periodontogicznej UAP. 2019-2021 roku studiował w Luksemburgu na Uniwersytecie DTMD (Digital Technologies of Science). Po ukończeniu studiów i obronie pracy   dostał tytuł Master of Science (MSc) in Periodontology and Implantology."
 			},
 			{
 				"id": "14",
 				"title": "Dr. Kovalchuk Tatiana",
 				"subtext": "Ortodonta",
-				"subtext2": "Spechalizacja",
+				"subtext2": "Specjalizacja",
 				"img": "Kovalchuk_Tatiana.jpg",
 				"desc": "Posiada wieloletnie doświadczenie w leczeniu pacjentów w różnym wieku: dzieci, młodzieży i dorosłych. Współpracuję z lekarzami innych specjalności przygotowując pacjentów do kompleksowego  leczenia ortodontycznego. Upowszechnia leczenie nowymi metodami kładąc nacisk na niewidoczne leczenie z zastosowaniem najnowocześniejszych technik jak aparaty Invisalign i aparaty językowe, również wykorzystując zakotwienia z użyciem mini implantów."
 			},
 			{
 				"id": "15",
 				"title": "Dr. Szablowska Monika",
-				"subtext": "Estetyka / Pedodont - Specjalizacja",
-				"subtext2": "Spechalizacja",
+				"subtext": "Stomatologia zachowawcza",
+				"subtext2": "Specjalizacja",
 				"img": "Szablowska_Monika.jpg",
 				"desc": "Zajmuje się leczeniem dorosłych i dzieci, stomatologia zachowawczą i estetyczną.  Swoje kwalifikacje podnosi regularnie uczestnicząc w licznych szkoleniach i kursach zawodowych. Jej praca jest dla niej pasją, w której nadrzędną wartością jest zdrowie i zadowolenie pacjenta."
 			},
@@ -685,23 +685,23 @@
 				"id": "3",
 				"title": "Anna Ben",
 				"subtext": "Kosmetolog",
-				"subtext2": "Spechalizacja",
+				"subtext2": "Specjalizacja",
 				"img": "Anna_Ben.jpg",
-				"desc": "Każdy zabieg dobierany jest indywidualnie do potrzeb skóry klienta i jego oczekiwań, które poznaję na pierwszej wizycie podczas konsultacji. Konsultacja jest wywiadem, który bazuje na rozmowie dotyczącej trybu życia i analizie skóry. W gabinecie pracuję nad utrzymaniem naturalności i atrakcyjności urody. Efektem tych działań jest zdrowa, piękna i naturalnie wyglądająca cera."
+				"desc": "Każdy zabieg dobierany jest indywidualnie do potrzeb skóry klienta i jego oczekiwań, które poznaję na pierwszej wizycie podczas konsultacji. W gabinecie pracuję nad utrzymaniem naturalności i atrakcyjności urody. Efektem tych działań jest zdrowa, piękna i naturalnie wyglądająca cera."
 			},
 			{
 				"id": "2",
 				"title": "Weronika Gargała",
 				"subtext": "Higienistka stomatologiczna",
-				"subtext2": "Spechalizacja",
+				"subtext2": "Specjalizacja",
 				"img": "Gargała_Weronika.jpg",
-				"desc": "Higienizacja po protokołu GBT. Dyplomowana higienistka stomatologiczna Weronika Gargała jest absolwentką Niepublicznej Szkoły Biznesu oraz Uniwersytetu Rzeszowskiego na kierunku biologia. Jako higienistka stomatologiczna pracuje od 2014roku. W naszym gabinecie przyjmuje pacjentów na zabiegi profilaktyczne (usuwanie kamienia , piaskowanie, fluoryzacja) oraz wybielanie zębów. Jej priorytetem jest delikatność wykonywanych zabiegów oraz precyzja. Ukończyła liczne szkolenia teoretyczne i praktyczne, które podwyższają jej kompetencje."
+				"desc": "Higienizacja wg.protokołu GBT. Dyplomowana higienistka stomatologiczna Weronika Gargała jest absolwentką Niepublicznej Szkoły Biznesu oraz Uniwersytetu Rzeszowskiego na kierunku biologia. Jako higienistka stomatologiczna pracuje od 2014roku. W naszym gabinecie przyjmuje pacjentów na zabiegi profilaktyczne (usuwanie kamienia , piaskowanie, fluoryzacja) oraz wybielanie zębów. Jej priorytetem jest delikatność wykonywanych zabiegów oraz precyzja. Ukończyła liczne szkolenia teoretyczne i praktyczne, które podwyższają jej kompetencje."
 			},
 			{
 				"id": "7",
 				"title": "Gniewek Zuzanna",
 				"subtext": "Asystentka stomatologiczna",
-				"subtext2": "Spechalizacja",
+				"subtext2": "Specjalizacja",
 				"img": "Gniewek_Zuzanna.jpg",
 				"desc": "Czynnie asystuje przy wszystkich zabiegach. Dba o komfort i dobre sampoczucie pacjenta. Swój zawód wykonuje z duzym zaangażowaniem."
 			},
@@ -709,15 +709,15 @@
 				"id": "6",
 				"title": "Maciołek Agnieszka",
 				"subtext": "Asystentka stomatologiczna",
-				"subtext2": "Spechalizacja",
+				"subtext2": "Specjalizacja",
 				"img": "Maciołek_Agnieszka.jpg",
-				"desc": "Cechuje ją wysoka emaptia."
+				"desc": "Cechuje ją wysoka emaptia. W pracy stawia na dokładność i precyzje. Jest osoba empatyczną, w pracy ceni sobie dobra atmosferę."
 			},
 			{
 				"id": "10",
 				"title": "Pryts Yevheniia",
 				"subtext": "Asystentka stomatologiczna",
-				"subtext2": "Spechalizacja",
+				"subtext2": "Specjalizacja",
 				"img": "Pryts_Yevheniia.jpg",
 				"desc": "Jest ratownikiem medycznym, ma 15 - to letnie doświadczenie w udzielaniu pomocy w nagłych stanach zagrozenia zdrowia. Cechuje ją pracowitość i pozytywne nastawienie do życia."
 			},
@@ -725,7 +725,7 @@
 				"id": "12",
 				"title": "Trawka Paulina",
 				"subtext": "Rejestratorka medyczna",
-				"subtext2": "Spechalizacja",
+				"subtext2": "Specjalizacja",
 				"img": "Trawka_Paulina.jpg",
 				"desc": "W pracy ceni sobie zgraną współpracę z lekarzem oraz komfort pacjenta. Pozytywnie nastawiona do świata, kontaktowa."
 			},
@@ -733,7 +733,7 @@
 				"id": "11",
 				"title": "Ratyna Elżbieta",
 				"subtext": "Rejestratorka medyczna",
-				"subtext2": "Spechalizacja",
+				"subtext2": "Specjalizacja",
 				"img": "Ratyna_Elżbieta.jpg",
 				"desc": "W pracy ceni sobie dobrą atmosferę. Kontakt z pacjentem nie stanowi dla niej problemu. Dodatkowym atutem jest posiadanie tytułu asystentki stomatologicznej."
 			},
@@ -741,33 +741,33 @@
 				"id": "13",
 				"title": "Naumenko Oleksandra",
 				"subtext": "Recepcyonistka medyczna",
-				"subtext2": "Spechalizacja",
+				"subtext2": "Specjalizacja",
 				"img": "Naumenko_Oleksandra.jpg",
-				"desc": "Zawsze chętna do  pomocy obcokrajowcom.  Rozmawia w języku ukraińskim i rosyjskim."
+				"desc": "Zawsze chętna do pomocy pacjentowi. Otwarta, kontaktowa. Rozmawia w języku ukraińskim i rosyjskim."
 			},
 			{
 				"id": "16",
 				"title": "Yurii Panenkov",
 				"subtext": "Technik dentystyczny",
-				"subtext2": "Spechalizacja",
+				"subtext2": "Specjalizacja",
 				"img": "Yurii_Panenkov.jpg",
-				"desc": "Od czasu uzyskania dyplomu technika nieprzestanie podnosi swoje kwalifikacje i umiejętności na licznych warsztatach oraz sympozjach. W naszym laboratorium je kierownikiem  ,nadzorując procesy powstania prac protetycznych. W swojej pracy szczególnie realizuje się w tworzeniu koron z cyrkonu ,w systemie BPS oraz podbudowach mostów, koron oraz systemów implantologicznych."
+				"desc": "Od czasu uzyskania dyplomu technika nieprzestanie podnosi swoje kwalifikacje i umiejętności na licznych warsztatach oraz sympozjach. W naszym laboratorium jest kierownikiem, nadzorując procesy powstania prac protetycznych. W swojej pracy szczególnie realizuje się w tworzeniu koron z cyrkonu, w systemie BPS oraz podbudowach mostów, koron oraz systemów implantologicznych."
 			},
 			{
 				"id": "17",
 				"title": "Zubets Vladyslav",
 				"subtext": "Technik dentystyczny",
-				"subtext2": "Spechalizacja",
+				"subtext2": "Specjalizacja",
 				"img": "Zubets_Vladyslav.jpg",
-				"desc": "Od czasu uzyskania dyplomu technika nieprzestanie podnosi swoje kwalifikacje i umiejętności na licznych warsztatach oraz sympozjach. W naszym laboratorium je kierownikiem  ,nadzorując procesy powstania prac protetycznych. W swojej pracy szczególnie realizuje się w tworzeniu koron z cyrkonu ,w systemie BPS oraz podbudowach mostów, koron oraz systemów implantologicznych."
+				"desc": "..."
 			},
 			{
 				"id": "18",
 				"title": "Chernohor Yurii",
 				"subtext": "Technik dentystyczny",
-				"subtext2": "Spechalizacja",
+				"subtext2": "Specjalizacja",
 				"img": "Chernohor_Yurii.jpg",
-				"desc": "Od czasu uzyskania dyplomu technika nieprzestanie podnosi swoje kwalifikacje i umiejętności na licznych warsztatach oraz sympozjach. W naszym laboratorium je kierownikiem  ,nadzorując procesy powstania prac protetycznych. W swojej pracy szczególnie realizuje się w tworzeniu koron z cyrkonu ,w systemie BPS oraz podbudowach mostów, koron oraz systemów implantologicznych."
+				"desc": "..."
 			}
 		]
 	},
