@@ -16,6 +16,11 @@ const Portfolio = () => {
 		setCourses(res);
 	}, [t]);
 
+	const renderImage = (sourse) => {
+		const targetImage = `assets/images/teams/${sourse}`;
+		return targetImage;
+	};
+
 	useEffect(() => {
 		projectFnc();
 	}, [i18n.language, projectFnc]);
@@ -37,6 +42,33 @@ const Portfolio = () => {
 					}}>
 					<h2 className={s.title}>{t('masters.title')}</h2>
 					<p className={s.subtitle}>{t('masters.subtitle')}</p>
+
+					<div className={s.director}>
+						<div
+							className={s.item}
+							data-aos="fade-up"
+							data-aos-delay="300">
+							<div className={s.img_thumb}>
+								<img
+									alt={t('masters.director.title')}
+									width="250"
+									src={renderImage(t('masters.director.img'))}
+								/>
+								<p className={s.data}>
+									{' '}
+									{t('masters.director.desc')}
+								</p>
+							</div>
+
+							<div className={s.data}>
+								<p className={s.name}>
+									{t('masters.director.title')}
+								</p>
+								<p>{t('masters.director.subtext')}</p>
+							</div>
+						</div>
+					</div>
+
 					<Box
 						sx={{
 							display: 'flex',

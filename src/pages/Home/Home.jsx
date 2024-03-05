@@ -2,7 +2,7 @@ import {useEffect, memo, useCallback} from 'react';
 import AOS from 'aos';
 import AboutMe from 'widgets/AboutMe/';
 import OurTeam from 'widgets/OurTeam';
-import AfterCourse from 'widgets/AfterCourse';
+import Services from 'widgets/Services';
 import Hero from 'widgets/Hero';
 import 'aos/dist/aos.css';
 import Price from 'widgets/Price';
@@ -28,7 +28,7 @@ const Home = () => {
 			<Hero />
 			<AboutMe />
 			<OurTeam />
-			<AfterCourse />
+			<Services />
 			<Price />
 			<ImageGallery />
 			<Proposition />

@@ -6,8 +6,8 @@
 	"Masters": "Nasz zespół",
 	"Contact": "Kontakt",
 	"hero": {
-		"hello": "Witamy w gabinetach stomatologicznych. Naszym głównym celem jest utrzymanie zdrowych zębów i dziąseł. Dużo uwagi poświęciliśmy tworzeniu",
-		"hello-accent": "stylowe, zaawansowane technologicznie, a jednocześnie wygodne środowisko dla wszystkich naszych pacjentów. Jesteśmy kliniką stomatologiczną posiadającą własne cyfrowe laboratorium protetyczne. Koronę można wykonać w 3 dni.",
+		"hello": "Witamy w gabinetach stomatologicznych.",
+		"hello-accent": "Jesteśmy kliniką stomatologiczną posiadającą własne cyfrowe laboratorium protetyczne. Koronę można wykonać w 3 dni.",
 		"name": "Witamy w Innovation Dental Clinic",
 		"text": "Antonia Viter"
 	},
@@ -640,149 +640,189 @@
 	"masters": {
 		"title": "Nasz zespół",
 		"subtitle": "Nasi lekarze posiadają wysokie kwalifikacje i gwarantują, że pomogą Ci wyzdrowieć z choroby.",
+		"director": {
+			"id": "5",
+			"title": "Kubicz-Depa Edyta",
+			"subtext": "Dyrektor",
+			"subtext2": "Spechalizacja",
+			"img": "Kubicz-Depa_Edyta.jpg",
+			"desc": "Uwielbia pracę z ludzmi. Ze stomatologią związana jest juz 15 lat. Pomoc i rozwiazywanie problemów to jej główna misja. Cechuje ją otwartość , życzliwość i optymistyczne podejście do życia."
+		},
 		"list": [
-			{
-				"id": "5",
-				"title": "Kubicz-Depa Edyta",
-				"subtext": "Dyrektor",
-				"text": "",
-				"img": "Kubicz-Depa_Edyta.jpg"
-			},
-			{
-				"id": "8",
-				"title": "Oleksiy Volkov",
-				"subtext": "Periodontolog / Endodonta / Protetyk / Chirurg-Implantolog",
-				"text": "",
-				"img": "Olek_Volkov.jpg"
-			},
 			{
 				"id": "1",
 				"title": "Dr. Maryna Lalakina",
 				"subtext": "Chirurg Implantolog Protetyk",
-				"text": "",
-				"img": "Maryna_Lalakina.jpg"
+				"subtext2": "Spechalizacja",
+				"img": "Maryna_Lalakina.jpg",
+				"desc": "Jest chirurgiem implantologiem, protetykiem i gnatologiem. Zajmuje się kompleksowym leczeniem jamy ustnej wraz z ciałem. Stomatologia - to miłosć jej życia. Pracuje już 18 lat - przez ten czas wypracowała swoje indywidywidualne podejście do pracy z pacjentem."
+			},
+			{
+				"id": "8",
+				"title": "Dr. Oleksiy Volkov",
+				"subtext": "Periodontolog / Endodonta / Protetyk / Chirurg-Implantolog",
+				"subtext2": "Spechalizacja",
+				"img": "Olek_Volkov.jpg",
+				"desc": "Pracuje głównie pod mikroskopem. Ma skuteczne podejście do leczenia pacjentów. 2013 roku skończył studia na Uniwersytecie Medycznym im. M.I. Pirochowa. Po 2 latach stażu podyplomowego dostałem tytuł lekarza-dentysty specjalisty. Od 2015 roku jest członkiem akademii periodontogicznej UAP. 2019-2021 roku studiowałem w Luksemburgu na Uniwersytecie DTMD (Digital Technologies of Science). Po ukończeniu studiów i obronie pracy dostałem tytuł Master of Science (MSc) in Periodontology and Implantology."
+			},
+			{
+				"id": "14",
+				"title": "Dr. Kovalchuk Tatiana",
+				"subtext": "Ortodonta",
+				"subtext2": "Spechalizacja",
+				"img": "Kovalchuk_Tatiana.jpg",
+				"desc": "Posiada wieloletnie doświadczenie w leczeniu pacjentów w różnym wieku: dzieci, młodzieży i dorosłych. Współpracuję z lekarzami innych specjalności przygotowując pacjentów do kompleksowego  leczenia ortodontycznego. Upowszechnia leczenie nowymi metodami kładąc nacisk na niewidoczne leczenie z zastosowaniem najnowocześniejszych technik jak aparaty Invisalign i aparaty językowe, również wykorzystując zakotwienia z użyciem mini implantów."
 			},
 			{
 				"id": "15",
-				"title": "Szablowska Monika",
+				"title": "Dr. Szablowska Monika",
 				"subtext": "Estetyka / Pedodont - Specjalizacja",
-				"text": "",
-				"img": "Szablowska_Monika.jpg"
+				"subtext2": "Spechalizacja",
+				"img": "Szablowska_Monika.jpg",
+				"desc": "Zajmuje się leczeniem dorosłych i dzieci, stomatologia zachowawczą i estetyczną.  Swoje kwalifikacje podnosi regularnie uczestnicząc w licznych szkoleniach i kursach zawodowych. Jej praca jest dla niej pasją, w której nadrzędną wartością jest zdrowie i zadowolenie pacjenta."
 			},
 			{
 				"id": "3",
 				"title": "Anna Ben",
 				"subtext": "Kosmetolog",
-				"text": "",
-				"img": "Anna_Ben.jpg"
+				"subtext2": "Spechalizacja",
+				"img": "Anna_Ben.jpg",
+				"desc": "Każdy zabieg dobierany jest indywidualnie do potrzeb skóry klienta i jego oczekiwań, które poznaję na pierwszej wizycie podczas konsultacji. Konsultacja jest wywiadem, który bazuje na rozmowie dotyczącej trybu życia i analizie skóry. W gabinecie pracuję nad utrzymaniem naturalności i atrakcyjności urody. Efektem tych działań jest zdrowa, piękna i naturalnie wyglądająca cera."
 			},
 			{
 				"id": "2",
 				"title": "Weronika Gargała",
 				"subtext": "Higienistka stomatologiczna",
-				"text": "",
-				"img": "Gargała_Weronika.jpg"
+				"subtext2": "Spechalizacja",
+				"img": "Gargała_Weronika.jpg",
+				"desc": "Higienizacja po protokołu GBT. Dyplomowana higienistka stomatologiczna Weronika Gargała jest absolwentką Niepublicznej Szkoły Biznesu oraz Uniwersytetu Rzeszowskiego na kierunku biologia. Jako higienistka stomatologiczna pracuje od 2014roku. W naszym gabinecie przyjmuje pacjentów na zabiegi profilaktyczne (usuwanie kamienia , piaskowanie, fluoryzacja) oraz wybielanie zębów. Jej priorytetem jest delikatność wykonywanych zabiegów oraz precyzja. Ukończyła liczne szkolenia teoretyczne i praktyczne, które podwyższają jej kompetencje."
 			},
 			{
 				"id": "7",
 				"title": "Gniewek Zuzanna",
 				"subtext": "Asystentka stomatologiczna",
-				"text": "",
-				"img": "Gniewek_Zuzanna.jpg"
+				"subtext2": "Spechalizacja",
+				"img": "Gniewek_Zuzanna.jpg",
+				"desc": "Czynnie asystuje przy wszystkich zabiegach. Dba o komfort i dobre sampoczucie pacjenta. Swój zawód wykonuje z duzym zaangażowaniem."
 			},
 			{
 				"id": "6",
 				"title": "Maciołek Agnieszka",
 				"subtext": "Asystentka stomatologiczna",
-				"text": "",
-				"img": "Maciołek_Agnieszka.jpg"
+				"subtext2": "Spechalizacja",
+				"img": "Maciołek_Agnieszka.jpg",
+				"desc": "Cechuje ją wysoka emaptia."
 			},
 			{
 				"id": "10",
 				"title": "Pryts Yevheniia",
-				"subtext": "Asystentka stomatologiczna / dental assistant",
-				"text": "",
-				"img": "Pryts_Yevheniia.jpg"
+				"subtext": "Asystentka stomatologiczna",
+				"subtext2": "Spechalizacja",
+				"img": "Pryts_Yevheniia.jpg",
+				"desc": "Jest ratownikiem medycznym, ma 15 - to letnie doświadczenie w udzielaniu pomocy w nagłych stanach zagrozenia zdrowia. Cechuje ją pracowitość i pozytywne nastawienie do życia."
+			},
+			{
+				"id": "12",
+				"title": "Trawka Paulina",
+				"subtext": "Rejestratorka medyczna",
+				"subtext2": "Spechalizacja",
+				"img": "Trawka_Paulina.jpg",
+				"desc": "W pracy ceni sobie zgraną współpracę z lekarzem oraz komfort pacjenta. Pozytywnie nastawiona do świata, kontaktowa."
 			},
 			{
 				"id": "11",
 				"title": "Ratyna Elżbieta",
 				"subtext": "Rejestratorka medyczna",
-				"text": "",
-				"img": "Ratyna_Elżbieta.jpg"
-			},
-			{
-				"id": "12",
-				"title": "Trawka Paulina",
-				"subtext": "Asystentka stomatologiczna",
-				"text": "",
-				"img": "Trawka_Paulina.jpg"
+				"subtext2": "Spechalizacja",
+				"img": "Ratyna_Elżbieta.jpg",
+				"desc": "W pracy ceni sobie dobrą atmosferę. Kontakt z pacjentem nie stanowi dla niej problemu. Dodatkowym atutem jest posiadanie tytułu asystentki stomatologicznej."
 			},
 			{
 				"id": "13",
 				"title": "Naumenko Oleksandra",
 				"subtext": "Recepcyonistka medyczna",
-				"text": "",
-				"img": "Naumenko_Oleksandra.jpg"
-			},
-			{
-				"id": "14",
-				"title": "Kovalchuk Tatiana",
-				"subtext": "Ortodonta",
-				"text": "",
-				"img": "Kovalchuk_Tatiana.jpg"
+				"subtext2": "Spechalizacja",
+				"img": "Naumenko_Oleksandra.jpg",
+				"desc": "Zawsze chętna do  pomocy obcokrajowcom.  Rozmawia w języku ukraińskim i rosyjskim."
 			},
 			{
 				"id": "16",
 				"title": "Yurii Panenkov",
 				"subtext": "Technik dentystyczny",
-				"text": "",
-				"img": "Yurii_Panenkov.jpg"
+				"subtext2": "Spechalizacja",
+				"img": "Yurii_Panenkov.jpg",
+				"desc": "Od czasu uzyskania dyplomu technika nieprzestanie podnosi swoje kwalifikacje i umiejętności na licznych warsztatach oraz sympozjach. W naszym laboratorium je kierownikiem  ,nadzorując procesy powstania prac protetycznych. W swojej pracy szczególnie realizuje się w tworzeniu koron z cyrkonu ,w systemie BPS oraz podbudowach mostów, koron oraz systemów implantologicznych."
 			},
 			{
 				"id": "17",
 				"title": "Zubets Vladyslav",
 				"subtext": "Technik dentystyczny",
-				"text": "",
-				"img": "Zubets_Vladyslav.jpg"
+				"subtext2": "Spechalizacja",
+				"img": "Zubets_Vladyslav.jpg",
+				"desc": "Od czasu uzyskania dyplomu technika nieprzestanie podnosi swoje kwalifikacje i umiejętności na licznych warsztatach oraz sympozjach. W naszym laboratorium je kierownikiem  ,nadzorując procesy powstania prac protetycznych. W swojej pracy szczególnie realizuje się w tworzeniu koron z cyrkonu ,w systemie BPS oraz podbudowach mostów, koron oraz systemów implantologicznych."
 			},
 			{
 				"id": "18",
 				"title": "Chernohor Yurii",
 				"subtext": "Technik dentystyczny",
-				"text": "",
-				"img": "Chernohor_Yurii.jpg"
+				"subtext2": "Spechalizacja",
+				"img": "Chernohor_Yurii.jpg",
+				"desc": "Od czasu uzyskania dyplomu technika nieprzestanie podnosi swoje kwalifikacje i umiejętności na licznych warsztatach oraz sympozjach. W naszym laboratorium je kierownikiem  ,nadzorując procesy powstania prac protetycznych. W swojej pracy szczególnie realizuje się w tworzeniu koron z cyrkonu ,w systemie BPS oraz podbudowach mostów, koron oraz systemów implantologicznych."
 			}
 		]
 	},
 	"get": [
 		{
-			"proposition": "Stomatologia zachowawcza",
-			"text": "Stomatologia zachowawcza zachowuje naturalne zęby, stosując minimalnie inwazyjne techniki."
+			"proposition": "Stomatologia ogólna",
+			"text": "Zakres działania stomatologii zachowawczej polega zarówno na profilaktyce jamy ustnej, jak i na  leczeniu ubytków zębów spowodowanych próchnicą.W naszym gabinecie wykonujemy wszystkie zabiegi stomatologiczne niezbędne do leczenia i odbudowy zębów naszych pacjentów."
+		},
+		{
+			"proposition": "Najnowsze technologie",
+			"text": "Skaner 3D, laser stomatologiczny , doskonały mikroskop Zeiss, lampa Beyond do sprawnego wybielania bez nadwrażliwości i kamery wewnątrzustne, dzięki którym stomatologia jeszcze nigdy nie była tak dokładna – to tylko niektóre udogodnienia dla twojego komfortu, bezpieczeństwa i najwyższej jakości zabiegów."
+		},
+		{
+			"proposition": "Implantologia",
+			"text": "Kiedy ocalenie zęba nie jest możliwe, z pomocą przychodzą implanty. Najprościej mówiąc, implant to nowy korzeń, wprowadzony w miejsce po usuniętym zębie. Implanty są wykonywane z tytanu, który jest traktowany przez organizm jak kość, dzięki czemu szybko się z nią zrasta. Do implantu przykręcana jest korona lub most protetyczny, które zastępują brakujące zęby."
+		},
+		{
+			"proposition": "Stomatologia estetyczna",
+			"text": "Nie każdy z nas rodzi się z idealnym uśmiechem, jednak dzięki rozwiązaniom współczesnej stomatologii estetycznej dziś większość pacjentów może się pochwalić pięknymi, białymi, prostymi zębami. Stomatologia estetyczna pozwala korygować kolor, kształt i wielkość zębów.Bonding w prosty sposób poprawia estetykę zębów – pozwala na odbudowanie małych ukruszeń czy zniwelowanie niewielkich wad na powierzchni zębów, bez konieczności ich szlifowania.  "
+		},
+		{
+			"proposition": "Profilaktyka / higienizacja",
+			"text": "Profilaktyka i higiena obejmują edukację w zakresie nawyków higienicznych oraz sposobów doboru środków do higieny jamy ustnej, regularne wizyty kontrolne, a także zestaw prostych zabiegów: usuwanie kamienia nazębnego (skaling), piaskowanie, fluoryzację i lakowanie zębów."
+		},
+		{
+			"proposition": "Jesteśmy certyfikownym gabinetem GBT systemu EMS",
+			"text": "Jednym z najnowocześniejszych protokołów stosowanych w gabinetach stomatologicznych jest Guided Biofilm Therapy, czyli GBT. Jest to kompleksowy system, który umożliwia skuteczną eliminację płytki nazębnej, osadu oraz przebarwień, przyczyniając się do utrzymania zdrowia dziąseł oraz zębów."
+		},
+		{
+			"proposition": "Stomatologia laserowa",
+			"text": "Uzupełnieniem realizowanych w klinice zabiegów jest stomatologia laserowa, obejmująca usuwanie próchnicy, kieszonek przyzębnych, stanów zapalnych dziąseł, nadwrażliwości, korekty dziąseł, usuwania naczyniaków warg, a także zapalenia kącików ust, aft lub opryszczek. Dentysta wykorzystuje w tym celu dwa urządzenia: laser diodowy i laser erbowo-yagowy i neodymowo-yagowy."
 		},
 		{
 			"proposition": "Protetyka",
-			"text": "Protetyka odbudowuje brakujące zęby za pomocą urządzeń protetycznych, poprawiając funkcję i estetykę."
+			"text": "Jesteśmy jedyną kliniką w Rzeszowie, która robi korony z tlenku cyrkonu lub ceramiki Emax w jeden dzień. Dlaczego? Masmy własne, cyfrowe laboratorium protetyczne. Oferujemy szeroką gamę rozwiązań dla harmonijnego i zdrowego uśmiechu.Protetyka stomatologiczna w naszej klinice oparta jest na nowoczesnym systemie CAD/CAM."
 		},
 		{
 			"proposition": "Chirurgia",
-			"text": "Chirurgia stomatologiczna obejmuje różnorodne zabiegi w celu rozwiązania problemów zębowych i poprawy zdrowia jamy ustnej."
-		},
-		{
-			"proposition": "Implanty",
-			"text": "Implanty - innowacyjna stomatologia przywracająca brakujące zęby, zapewniająca komfort i estetykę uśmiechu."
+			"text": "Zatrzymana ósemka? Torbiel, czy zmiana przy wierzchołku zęba? Nic strasznego. W naszej klinice oferujemy bezbolesny, profesjonalny zabieg przeprowadzony przez chirurga, który bardzo lubi to co robi. Nasi lekarze bezzwłocznie pomogą też Państwu w przypadku bólu i konieczności usunięcia zęba. Stawiamy na profesjonalne oraz bezstresowe ekstrakcje w  komputerowym znieczuleniu miejscowym."
 		},
 		{
 			"proposition": "Ortodoncja",
-			"text": "Ortodoncja koryguje nieprawidłowo ustawione zęby i szczęki, poprawiając estetykę i funkcję zębów."
+			"text": "Leczenie ortodontyczne polega na przesuwaniu zębów w celu poprawy ich ustawienia i funkcji. Z pomocą ortodoncji można efektownie poprawić własny wizerunek, zwiększyć pewność siebie i zadbać o zdrowie zębów, dziąseł i stawów skroniowo-żuchwowych. Zdajemy sobie sprawę z tego, jak istotne jest nie tylko zdrowie i prawidłowy zgryz, ale też wymiar estetyczny."
 		},
 		{
-			"proposition": "Endodoncja",
+			"proposition": "Endodoncja mikroskopowa",
 			"text": "Endodoncja leczy miazgę zębową i problemy z kanałem korzeniowym w celu zachowania naturalnych zębów."
 		},
 		{
 			"proposition": "RTG",
-			"text": "RTG stomatologiczne diagnozuje stany zębów i dostarcza informacji na temat zdrowia jamy ustnej."
+			"text": "RTG to jedna z najważniejszych technik diagnostycznych w medycynie. Znana potocznie jako rentgen lub prześwietlenie, wykorzystuje promieniowanie rentgenowskie i pozwala na zarejestrowanie dwuwymiarowego obrazu organów pacjenta, co z kolei umożliwia wykrycie ewentualnych nieprawidłowości oraz postawienie diagnozy."
+		},
+		{
+			"proposition": "Stomatologia dziecienca",
+			"text": "Doskonale wiemy, że leczenie zębów wcale nie musi źle się kojarzyć. W pełni wykorzystujemy więc możliwości, jakie oferuje nowoczesna stomatologia dziecięca. Kolorowe wypełnienia, które przypadną do gustu nie tylko dziewczynkom, znieczulenie pod postacią żelu smakowego czy sprayu, to tylko kilka z wielu stosowanych przez nas trików, dzięki którym ból i strach malucha zostają właściwie zupełnie wyeliminowane."
 		}
 	],
 	"get_title": "Nasze Usługi",

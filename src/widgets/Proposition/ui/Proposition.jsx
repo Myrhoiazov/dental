@@ -3,7 +3,7 @@ import Container from 'shared/ui/container/Container';
 import s from './Proposition.module.scss';
 import 'shared/config/i18n/i18next';
 
-import Img from 'shared/assets/change-life.png';
+import Img from 'shared/assets/images/studio/7.webp';
 
 const Proposition = () => {
 	const {t} = useTranslation();
@@ -14,7 +14,9 @@ const Proposition = () => {
 				<div className={s.inner}>
 					<h2 className={s.title}>{t('proposition.title')}</h2>
 
-					<img src={Img} alt="Change your life" />
+					<div className={s.thumb}>
+						<img src={Img} alt="Change your life" />
+					</div>
 				</div>
 			</Container>
 		</section>

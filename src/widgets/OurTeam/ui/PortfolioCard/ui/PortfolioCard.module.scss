@@ -2,22 +2,59 @@
 
 .item {
 	width: 100%;
-}
 
-.img_thumb {
-	max-height: 315px;
-	width: 100%;
-	overflow: hidden;
-	border-radius: 10px;
-
-	img {
+	.img_thumb {
+		position: relative;
+		max-height: 315px;
 		width: 100%;
-		display: block;
-		object-fit: cover;
-		object-position: center;
-	}
+		overflow: hidden;
+		border-radius: 10px;
+		cursor: pointer;
 
+		img {
+			width: 100%;
+			display: block;
+			object-fit: cover;
+			object-position: center;
+		}
+
+		.data {
+			position: absolute;
+			top: 100%;
+			bottom: 0;
+			left: 0;
+			right: 0;
+			padding: 10px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			text-align: center;
+			opacity: 0;
+			font-size: 14px;
+			color: $white;
+			background-color: rgba($primary-color, 0.8);
+			transition: all 0.5s ease;
+
+			span {
+				font-weight: 700;
+				display: inline-block;
+				margin-right: 7px;
+			}
+		}
+
+
+		&:hover {
+			.data {
+				top: 0;
+				opacity: 1;
+			}
+		}
+
+
+
+	}
 }
+
 
 .title {
 	text-align: center;
@@ -38,4 +75,95 @@
 	text-align: center;
 	margin: 0 auto;
 	margin-bottom: 60px;
+}
+
+.subtext2 {
+	font-weight: 700;
+	display: block;
+	margin-bottom: 5px;
+}
+
+.director {
+
+	display: flex;
+	justify-content: center;
+	margin-bottom: 20px;
+
+	.item {
+		max-width: 350px;
+		width: 100%;
+		padding: 12px;
+		border-radius: 10px;
+		padding-bottom: 16px;
+		box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+		.img_thumb {
+			position: relative;
+			max-height: 315px;
+			width: 100%;
+			overflow: hidden;
+			border-radius: 10px;
+			cursor: pointer;
+
+			img {
+				width: 100%;
+				display: block;
+				object-fit: cover;
+				object-position: center;
+			}
+
+			.data {
+				position: absolute;
+				top: 100%;
+				bottom: 0;
+				left: 0;
+				right: 0;
+				padding: 10px;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				text-align: center;
+				opacity: 0;
+				font-size: 14px;
+				color: $white;
+				background-color: rgba($primary-color, 0.8);
+				transition: all 0.5s ease;
+			}
+
+
+			&:hover {
+				.data {
+					top: 0;
+					opacity: 1;
+				}
+			}
+		}
+
+		.data {
+			padding: 16px;
+			padding-top: 20px;
+			display: flex;
+			flex-direction: column;
+			height: 100%;
+			text-align: center;
+
+			.name {
+				letter-spacing: 0.00938em;
+				margin-bottom: 0.35em;
+				color: black;
+				text-align: center;
+				font-size: 1.2rem;
+				margin-bottom: 1.2rem;
+				font-weight: 700;
+				text-transform: uppercase;
+				line-height: 1.2;
+			}
+
+			p span {
+				font-weight: 700;
+				display: inline-block;
+				margin-right: 7px;
+			}
+		}
+	}
 }

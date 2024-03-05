@@ -29,6 +29,7 @@ const PortfolioCard = ({el}) => {
 				data-aos-delay="300">
 				<div className={s.img_thumb}>
 					<img alt={el.title} width="250" src={renderImage(el.img)} />
+					<p className={s.data}> {el.desc}</p>
 				</div>
 
 				<CardContent
@@ -37,6 +38,7 @@ const PortfolioCard = ({el}) => {
 						flexDirection: 'column',
 						height: '100%',
 						paddingTop: '20px',
+						minHeight: '160px',
 					}}>
 					<Typography
 						gutterBottom
@@ -54,7 +56,6 @@ const PortfolioCard = ({el}) => {
 					</Typography>
 					<Typography
 						variant="body2"
-						color="text.secondary"
 						sx={{
 							textAlign: 'center',
 							minHeight: '45px',
@@ -64,6 +65,8 @@ const PortfolioCard = ({el}) => {
 							fontWeight: 400,
 							color: '#4c4c4e',
 						}}>
+						<span className={s.subtext2}>{el.subtext2}:</span>
+
 						{el.subtext}
 					</Typography>
 				</CardContent>

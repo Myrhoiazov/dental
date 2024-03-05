@@ -50,11 +50,11 @@ const Contact = () => {
 									</a>
 								</li>
 								<li className={s.contactItem}>
-									<a href="tel:+48667580380">
+									<a href="tel:+48667380380">
 										<Phone
 											className={`${s.icon} ${s.phone}`}
 										/>
-										+48 667 580 380
+										+48 667 380 380
 									</a>
 								</li>
 								<li className={s.contactItem}>
@@ -105,9 +105,9 @@ const Contact = () => {
 							</ul>
 						</li>
 					</ul>
-					<Map />
 				</div>
 			</Container>
+			<Map />
 		</section>
 	);
 };

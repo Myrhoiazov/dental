@@ -3,11 +3,11 @@
 	"About me": "About us",
 	"Courses": "Services",
 	"Prices": "Prices",
-	"Masters": "Masters",
+	"Masters": "Our Team",
 	"Contact": "Contact",
 	"hero": {
-		"hello": "We kindly ask you to the dental clinics. Our goal is to keep your teeth healthy. We have given a lot of respect to him to create",
-		"hello-accent": "a more stylish, high-tech, yet more comfortable solution for all our patients. We are a dental clinic with our own digital prosthetic laboratory. The crown can be made in 3 days.",
+		"hello": "We kindly ask you to the dental clinics.",
+		"hello-accent": "We are a dental clinic with our own digital prosthetic laboratory. The crown can be made in 3 days.",
 		"name": "Kindly welcome to Innovation Dental Clinic",
 		"text": "Antonia Viter"
 	},
@@ -638,153 +638,192 @@
 		]
 	},
 	"masters": {
-		"title": "Masters",
+		"title": "Our Team",
 		"subtitle": "Our doctors have high qualified skills and are guaranteed to help you recover from your disease.",
+		"director": {
+			"id": "5",
+			"title": "Kubicz-Depa Edyta",
+			"subtext": "Director",
+			"subtext2": "Specialization",
+			"text": "",
+			"img": "Kubicz-Depa_Edyta.jpg",
+			"desc": "She loves working with people and has been involved in dentistry for 15 years. Helping and solving problems is her main mission. She is characterized by openness, kindness, and an optimistic approach to life."
+		},
 		"list": [
-			
-				{
-					"id": "5",
-					"title": "Kubicz-Depa Edyta",
-					"subtext": "Director",
-					"text": "",
-					"img": "Kubicz-Depa_Edyta.jpg"
-				},
-				{
-					"id": "8",
-					"title": "Oleksiy Volkov",
-					"subtext": "Periodontist / Endodontist / Prosthodontist / Implant Surgeon",
-					"text": "",
-					"img": "Olek_Volkov.jpg"
-				},
-				{
-					"id": "1",
-					"title": "Dr. Maryna Lalakina",
-					"subtext": "Implant Surgeon Prosthodontist",
-					"text": "",
-					"img": "Maryna_Lalakina.jpg"
-				},
-				{
-					"id": "15",
-					"title": "Szablowska Monika",
-					"subtext": "Aesthetics / Pedodontics - Specialization",
-					"text": "",
-					"img": "Szablowska_Monika.jpg"
-				},
-				{
-					"id": "3",
-					"title": "Anna Ben",
-					"subtext": "Cosmetologist",
-					"text": "",
-					"img": "Anna_Ben.jpg"
-				},
-				{
-					"id": "2",
-					"title": "Weronika Gargała",
-					"subtext": "Dental Hygienist",
-					"text": "",
-					"img": "Gargała_Weronika.jpg"
-				},
-				{
-					"id": "7",
-					"title": "Gniewek Zuzanna",
-					"subtext": "Dental Assistant",
-					"text": "",
-					"img": "Gniewek_Zuzanna.jpg"
-				},
-				{
-					"id": "6",
-					"title": "Maciołek Agnieszka",
-					"subtext": "Dental Assistant",
-					"text": "",
-					"img": "Maciołek_Agnieszka.jpg"
-				},
-				{
-					"id": "10",
-					"title": "Pryts Yevheniia",
-					"subtext": "Dental Assistant / Dental Assistant",
-					"text": "",
-					"img": "Pryts_Yevheniia.jpg"
-				},
-				{
-					"id": "11",
-					"title": "Ratyna Elżbieta",
-					"subtext": "Medical Registrar",
-					"text": "",
-					"img": "Ratyna_Elżbieta.jpg"
-				},
-				{
-					"id": "12",
-					"title": "Trawka Paulina",
-					"subtext": "Dental Assistant",
-					"text": "",
-					"img": "Trawka_Paulina.jpg"
-				},
-				{
-					"id": "13",
-					"title": "Naumenko Oleksandra",
-					"subtext": "Medical Receptionist",
-					"text": "",
-					"img": "Naumenko_Oleksandra.jpg"
-				},
-				{
-					"id": "14",
-					"title": "Kovalchuk Tatiana",
-					"subtext": "Orthodontist",
-					"text": "",
-					"img": "Kovalchuk_Tatiana.jpg"
-				},
-				{
-					"id": "16",
-					"title": "Yurii Panenkov",
-					"subtext": "Dental Technician",
-					"text": "",
-					"img": "Yurii_Panenkov.jpg"
-				},
-				{
-					"id": "17",
-					"title": "Zubets Vladyslav",
-					"subtext": "Dental Technician",
-					"text": "",
-					"img": "Zubets_Vladyslav.jpg"
-				},
-				{
-					"id": "18",
-					"title": "Chernohor Yurii",
-					"subtext": "Dental Technician",
-					"text": "",
-					"img": "Chernohor_Yurii.jpg"
-				}
-			
+			{
+				"id": "1",
+				"title": "Dr. Maryna Lalakina",
+				"subtext": "Implant Surgeon Prosthodontist",
+				"subtext2": "Specialization",
+				"img": "Maryna_Lalakina.jpg",
+				"desc": "She is an implantologist, prosthetist, and gnathologist. She specializes in comprehensive oral cavity treatment along with the body. Dentistry is the love of her life. She has been working for 18 years, during which time she has developed her own individual approach to working with patients."
+			},
+			{
+				"id": "8",
+				"title": "Dr. Oleksiy Volkov",
+				"subtext": "Periodontist / Endodontist / Prosthodontist / Implant Surgeon",
+				"subtext2": "Specialization",
+				"img": "Olek_Volkov.jpg",
+				"desc": "He mainly works under a microscope and has an effective approach to patient treatment. In 2013, he graduated from the M.I. Pirogov Medical University. After 2 years of postgraduate internship, he obtained the title of specialist dentist. Since 2015, he has been a member of the periodontal academy at UAP. From 2019 to 2021, he studied at the DTMD University in Luxembourg, specializing in Digital Technologies of Science. Upon completing his studies and defending his thesis, he was awarded the title of Master of Science (MSc) in Periodontology and Implantology."
+			},
+			{
+				"id": "15",
+				"title": "Dr. Szablowska Monika",
+				"subtext": "Aesthetics / Pedodontics - Specialization",
+				"subtext2": "Specialization",
+				"img": "Szablowska_Monika.jpg",
+				"desc": "She specializes in treating adults and children, focusing on conservative and aesthetic dentistry. She regularly enhances her qualifications by participating in numerous professional training courses. Her work is her passion, with the paramount value being the health and satisfaction of the patient."
+			},
+			{
+				"id": "14",
+				"title": "Dr. Kovalchuk Tatiana",
+				"subtext": "Orthodontist",
+				"subtext2": "Specialization",
+				"img": "Kovalchuk_Tatiana.jpg",
+				"desc": "She has extensive experience in treating patients of all ages: children, adolescents, and adults. She collaborates with doctors from other specialties in preparing patients for comprehensive orthodontic treatment. She promotes treatment with new methods, emphasizing invisible treatment using the latest techniques such as Invisalign braces and lingual braces, also utilizing anchorage with the use of mini implants."
+			},
+			{
+				"id": "3",
+				"title": "Anna Ben",
+				"subtext": "Cosmetologist",
+				"subtext2": "Specialization",
+				"img": "Anna_Ben.jpg",
+				"desc": "Each treatment is tailored individually to the client's skin needs and expectations, which I learn during the initial consultation on the first visit. The consultation is an interview based on a conversation about lifestyle and skin analysis. In the clinic, I work on maintaining the naturalness and attractiveness of beauty. The result of these efforts is healthy, beautiful, and naturally looking skin."
+			},
+			{
+				"id": "2",
+				"title": "Weronika Gargała",
+				"subtext": "Dental Hygienist",
+				"subtext2": "Specialization",
+				"img": "Gargała_Weronika.jpg",
+				"desc": "After the GBT protocol. Certified dental hygienist Weronika Gargała is a graduate of the Non-Public Business School and the University of Rzeszów with a degree in biology. She has been working as a dental hygienist since 2014. In our clinic, she sees patients for preventive treatments (tartar removal, sandblasting, fluoridation) as well as teeth whitening. Her priority is the gentleness of the procedures performed and precision. She has completed numerous theoretical and practical training sessions to enhance her skills."
+			},
+			{
+				"id": "7",
+				"title": "Gniewek Zuzanna",
+				"subtext": "Dental Assistant",
+				"subtext2": "Specialization",
+				"img": "Gniewek_Zuzanna.jpg",
+				"desc": "She actively assists in all procedures, ensuring the comfort and well-being of the patient. She executes her profession with great dedication."
+			},
+			{
+				"id": "6",
+				"title": "Maciołek Agnieszka",
+				"subtext": "Dental Assistant",
+				"subtext2": "Specialization",
+				"img": "Maciołek_Agnieszka.jpg",
+				"desc": "She is characterized by high empathy."
+			},
+			{
+				"id": "10",
+				"title": "Pryts Yevheniia",
+				"subtext": "Dental Assistant",
+				"subtext2": "Specialization",
+				"img": "Pryts_Yevheniia.jpg",
+				"desc": "He is a paramedic with 15 years of experience in providing assistance in emergency health situations. He is characterized by diligence and a positive outlook on life."
+			},
+			{
+				"id": "12",
+				"title": "Trawka Paulina",
+				"subtext": "Medical Registrar",
+				"subtext2": "Specialization",
+				"img": "Trawka_Paulina.jpg",
+				"desc": "At work, she values smooth cooperation with the doctor and patient comfort. She is positive-minded, communicative, and friendly."
+			},
+			{
+				"id": "11",
+				"title": "Ratyna Elżbieta",
+				"subtext": "Medical Registrar",
+				"subtext2": "Specialization",
+				"img": "Ratyna_Elżbieta.jpg",
+				"desc": "At work, she values a good atmosphere. Contact with the patient is not a problem for her. An additional asset is her title as a dental assistant."
+			},
+			{
+				"id": "13",
+				"title": "Naumenko Oleksandra",
+				"subtext": "Medical Receptionist",
+				"subtext2": "Specialization",
+				"img": "Naumenko_Oleksandra.jpg",
+				"desc": "Always eager to help foreigners. She converses in Ukrainian and Russian."
+			},
+			{
+				"id": "16",
+				"title": "Yurii Panenkov",
+				"subtext": "Dental Technician",
+				"subtext2": "Specialization",
+				"img": "Yurii_Panenkov.jpg",
+				"desc": "Since obtaining the technician diploma, he has continuously been enhancing his qualifications and skills through numerous workshops and symposiums. In our laboratory, he serves as the manager, overseeing the processes of creating prosthetic works. He particularly specializes in crafting zirconium crowns, using the BPS system, as well as in frameworks for bridges, crowns, and implant systems."
+			},
+			{
+				"id": "17",
+				"title": "Zubets Vladyslav",
+				"subtext": "Dental Technician",
+				"subtext2": "Specialization",
+				"img": "Zubets_Vladyslav.jpg",
+				"desc": "Since obtaining the technician diploma, he has continuously been enhancing his qualifications and skills through numerous workshops and symposiums. In our laboratory, he serves as the manager, overseeing the processes of creating prosthetic works. He particularly specializes in crafting zirconium crowns, using the BPS system, as well as in frameworks for bridges, crowns, and implant systems."
+			},
+			{
+				"id": "18",
+				"title": "Chernohor Yurii",
+				"subtext": "Dental Technician",
+				"subtext2": "Specialization",
+				"img": "Chernohor_Yurii.jpg",
+				"desc": "Since obtaining the technician diploma, he has continuously been enhancing his qualifications and skills through numerous workshops and symposiums. In our laboratory, he serves as the manager, overseeing the processes of creating prosthetic works. He particularly specializes in crafting zirconium crowns, using the BPS system, as well as in frameworks for bridges, crowns, and implant systems."
+			}
 		]
 	},
 	"get": [
 		{
-			"proposition": "Conservative dentistry",
-			"text": "Conservative Dentistry preserves natural teeth using minimally invasive techniques."
+			"proposition": "General Dentistry",
+			"text": "The scope of conservative dentistry involves both oral cavity prevention and treatment of tooth decay-caused cavities. In our clinic, we perform all necessary dental procedures for the treatment and restoration of our patients' teeth."
 		},
 		{
-			"proposition": "Protetyka",
-			"text": "Prosthodontics restores missing teeth with prosthetic devices, aiming to improve function and aesthetics."
+			"proposition": "Latest Technologies",
+			"text": "3D scanner, dental laser, excellent Zeiss microscope, Beyond lamp for efficient sensitivity-free whitening, and intraoral cameras - these are just some of the conveniences for your comfort, safety, and highest quality of treatments."
 		},
 		{
-			"proposition": "Chirurgia",
-			"text": "Dental Surgery includes various procedures to address dental issues and improve oral health."
+			"proposition": "Implantology",
+			"text": "When saving a tooth is not possible, implants come to the rescue. Simply put, an implant is a new root inserted in place of a removed tooth. Implants are made of titanium, which is treated by the body like bone, allowing it to fuse quickly. A crown or bridge prosthesis is screwed onto the implant, replacing missing teeth."
 		},
 		{
-			"proposition": "Implanty",
-			"text": "Implants - innovative dentistry restoring missing teeth, ensuring comfort and smile aesthetics."
+			"proposition": "Aesthetic Dentistry",
+			"text": "Not everyone is born with a perfect smile, but thanks to modern aesthetic dentistry solutions, most patients can boast beautiful, white, straight teeth today. Aesthetic dentistry allows for correcting the color, shape, and size of teeth. Bonding easily improves tooth aesthetics by rebuilding small chips or correcting minor imperfections on the tooth surface, without the need for grinding."
 		},
 		{
-			"proposition": "Ortodoncja",
-			"text": "Orthodontics corrects misaligned teeth and jaws to enhance dental aesthetics and function"
+			"proposition": "Prevention / Hygiene",
+			"text": "Prevention and hygiene include education on hygiene habits and ways to choose oral hygiene products, regular check-up visits, as well as a set of simple procedures: plaque removal (scaling), sandblasting, fluoridation, and tooth sealing."
 		},
 		{
-			"proposition": "Endodoncja",
-			"text": "Endodontics treats dental pulp and root canal issues to save natural teeth."
+			"proposition": "We are a certified GBT system clinic by EMS",
+			"text": "One of the most advanced protocols used in dental clinics is Guided Biofilm Therapy, or GBT. It is a comprehensive system that allows for effective removal of dental plaque, deposits, and discolorations, contributing to the maintenance of healthy gums and teeth."
+		},
+		{
+			"proposition": "Laser Dentistry",
+			"text": "Complementing the procedures carried out in the clinic is laser dentistry, which includes caries removal, periodontal pocket treatment, gum inflammation, hypersensitivity, gum correction, removal of lip hemangiomas, as well as inflammation of mouth corners, aphthae, or cold sores. The dentist uses two devices for this purpose: a diode laser and an erbium-yag and neodymium-yag laser."
+		},
+		{
+			"proposition": "Prosthetics",
+			"text": "We are the only clinic in Rzeszów that makes crowns from zirconium oxide or Emax ceramics in one day. Why? Because we have our own digital prosthetic laboratory. We offer a wide range of solutions for a harmonious and healthy smile. Dental prosthetics in our clinic is based on a modern CAD/CAM system."
+		},
+		{
+			"proposition": "Surgery",
+			"text": "Impacted wisdom tooth? Cyst or change at the tooth apex? Nothing to worry about. In our clinic, we offer painless, professional treatment performed by a surgeon who really enjoys what he does. Our doctors will also immediately help you in case of pain and the need to remove a tooth. We focus on professional and stress-free extractions in computer-assisted local anesthesia."
+		},
+		{
+			"proposition": "Orthodontics",
+			"text": "Orthodontic treatment involves moving teeth to improve their position and function. With orthodontics, you can effectively improve your appearance, increase self-confidence, and take care of the health of your teeth, gums, and temporomandibular joints. We realize how important not only health and correct bite are, but also the aesthetic dimension."
+		},
+		{
+			"proposition": "Microscopic Endodontics",
+			"text": "Endodontics treats dental pulp and root canal problems to preserve natural teeth."
 		},
 		{
 			"proposition": "RTG",
-			"text": "Dental Radiography diagnoses dental conditions and provides insights into oral health."
+			"text": "RTG is one of the most important diagnostic techniques in medicine. Commonly known as an X-ray or radiography, it uses X-ray radiation to register a two-dimensional image of a patient's organs, allowing the detection of any abnormalities and making a diagnosis."
+		},
+		{
+			"proposition": "Pediatric Dentistry",
+			"text": "We know very well that dental treatment does not have to be associated with negative experiences. Therefore, we fully utilize the possibilities offered by modern pediatric dentistry. Colorful fillings that will appeal not only to girls, anesthesia in the form of flavored gel or spray - these are just a few of the many tricks we use to effectively eliminate the pain and fear of a child."
 		}
 	],
 	"get_title": "Our services",
